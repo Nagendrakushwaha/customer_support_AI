@@ -1,0 +1,136 @@
+{
+  "total_documents": 14,
+  "total_chunks": 102,
+  "documents": [
+    {
+      "filename": "account_policy.pdf",
+      "title": "ShopEase \u2014 Customer Account Policy",
+      "document_type": "Account Policy",
+      "pages": 2,
+      "characters": 4964,
+      "chunks": 4
+    },
+    {
+      "filename": "cancellation_policy.pdf",
+      "title": "ShopEase \u2014 Order Cancellation Policy",
+      "document_type": "Cancellation Policy",
+      "pages": 2,
+      "characters": 4067,
+      "chunks": 4
+    },
+    {
+      "filename": "company_overview.pdf",
+      "title": "ShopEase \u2014 Corporate & Operational Overview",
+      "document_type": "Company Overview",
+      "pages": 3,
+      "characters": 6070,
+      "chunks": 5
+    },
+    {
+      "filename": "contact_information.pdf",
+      "title": "ShopEase \u2014 Customer Support & Escalation Matrix",
+      "document_type": "Contact Information & Escalations",
+      "pages": 2,
+      "characters": 3792,
+      "chunks": 4
+    },
+    {
+      "filename": "discount_policy.pdf",
+      "title": "ShopEase \u2014 Promotional Discount & Coupon Policy",
+      "document_type": "Discount Policy",
+      "pages": 2,
+      "characters": 4169,
+      "chunks": 4
+    },
+    {
+      "filename": "faq.pdf",
+      "title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+      "document_type": "Frequently Asked Questions",
+      "pages": 21,
+      "characters": 53008,
+      "chunks": 54
+    },
+    {
+      "filename": "membership_policy.pdf",
+      "title": "ShopEase \u2014 Membership & Loyalty Policy",
+      "document_type": "Membership Policy",
+      "pages": 2,
+      "characters": 3830,
+      "chunks": 4
+    },
+    {
+      "filename": "payment_policy.pdf",
+      "title": "ShopEase \u2014 Payment & Transaction Policy",
+      "document_type": "Payment Policy",
+      "pages": 2,
+      "characters": 4116,
+      "chunks": 3
+    },
+    {
+      "filename": "privacy_policy.pdf",
+      "title": "ShopEase \u2014 Customer Privacy Policy",
+      "document_type": "Privacy Policy",
+      "pages": 2,
+      "characters": 3478,
+      "chunks": 3
+    },
+    {
+      "filename": "refund_policy.pdf",
+      "title": "ShopEase \u2014 Customer Refund Policy",
+      "document_type": "Refund Policy",
+      "pages": 2,
+      "characters": 3996,
+      "chunks": 4
+    },
+    {
+      "filename": "return_policy.pdf",
+      "title": "ShopEase \u2014 Product Return & Replacement Policy",
+      "document_type": "Return Policy",
+      "pages": 2,
+      "characters": 4525,
+      "chunks": 4
+    },
+    {
+      "filename": "security_policy.pdf",
+      "title": "ShopEase \u2014 Customer Security & Fraud Prevention Policy",
+      "document_type": "Security Policy",
+      "pages": 2,
+      "characters": 3545,
+      "chunks": 3
+    },
+    {
+      "filename": "shipping_policy.pdf",
+      "title": "ShopEase \u2014 Shipping & Delivery Policy",
+      "document_type": "Shipping Policy",
+      "pages": 2,
+      "characters": 3577,
+      "chunks": 3
+    },
+    {
+      "filename": "warranty_policy.pdf",
+      "title": "ShopEase \u2014 Product Warranty Policy",
+      "document_type": "Warranty Policy",
+      "pages": 2,
+      "characters": 3707,
+      "chunks": 3
+    }
+  ],
+  "authoritative_policy_constants": {
+    "customer_support_hours": "Monday\u2013Saturday, 9:00 AM\u20138:00 PM IST; Sunday: Closed",
+    "general_support_email": "support@shopease.example",
+    "toll_free_phone": "1800-123-EASE (1800-123-3273)",
+    "standard_shipping_sla": "3\u20137 business days",
+    "express_shipping_sla": "1\u20133 business days",
+    "standard_return_window": "7 calendar days from delivery",
+    "selected_electronics_warranty": "12-month manufacturer warranty",
+    "cancellation_rule": "Customers can cancel an order free of charge before the order reaches 'Shipped' status.",
+    "memberships": {
+      "basic": "Free",
+      "plus": "\u20b9499/year",
+      "premium": "\u20b9999/year"
+    },
+    "security_mandate": "ShopEase support staff will NEVER request: Password, OTP, CVV, Card PIN, Authentication codes."
+  },
+  "company": "ShopEase",
+  "version": "1.0"
+}

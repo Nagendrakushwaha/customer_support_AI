@@ -1,0 +1,920 @@
+[
+  {
+    "chunk_id": "account_policy.pdf_p1_c0",
+    "filename": "account_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Account Policy",
+    "document_type": "Account Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Customer Account Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Account Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Account Creation & Eligibility To establish a ShopEase customer account, an individual must be at least 18 years of age (or have explicit parental/legal guardian supervision under Indian contract law) and possess a valid Indian mobile phone number capable of receiving SMS OTPs and an active email address. REGISTRATION RULE Rule: Each ShopEase account must be uniquely associated with one mobile number and one email address. Duplicate registration attempts using an existing verified mobile number will be redirected to account sign-in or password recovery. 2. Credential Verification & Security Standards Email Verification: Upon registration, an automated activation link is dispatched to the specified email address. The link remains valid for 24 hours. Unverified emails will prompt a verification banner upon subsequent logins. Phone Verification: A 6-digit One-Time Password (OTP) is sent via SMS. The OTP is valid for 10 minutes and expires automatically. A maximum of 3 OTP generation requests are permitted within any rolling 60-minute window to prevent automated abuse. Password Complexity Requirements: Passwords must contain a minimum of 8 characters and include at least one uppercase letter (A\u2013Z), one lowercase letter (a\u2013z), one numeric digit (0\u20139), and one special symbol (e.g., @,",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "account_policy.pdf_p1_c1",
+    "filename": "account_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Account Policy",
+    "document_type": "Account Policy",
+    "page": 1,
+    "text": "automated abuse. Password Complexity Requirements: Passwords must contain a minimum of 8 characters and include at least one uppercase letter (A\u2013Z), one lowercase letter (a\u2013z), one numeric digit (0\u20139), and one special symbol (e.g., @, #, $, %, !). Passwords matching common dictionary words or personal phone numbers are rejected. 3. Account Modifications, Phone/Email Changes & Recovery Customers can modify their profile details through the 'My Account > Security Settings' section: \u2022 Updating Mobile Number: Changing the registered phone number requires dual-factor OTP validation sent simultaneously to the existing phone number and the proposed new phone number. \u2022 Updating Email Address: Requires entering the current account password followed by clicking a cryptographic confirmation link sent to the new email address. \u2022 Account Recovery: If a customer loses access to both their registered phone number and email address, they must initiate formal identity recovery through customer support (support@shopease.example). The user must supply past order IDs, registered address history, and government-issued photo identification. 4. Account Suspension, Deactivation & Permanent Erasure \u2022 Suspension: ShopEase reserves the right to suspend accounts engaged in abusive return velocity, payment chargeback fraud, repeated abusive language toward support personnel, or automated bot scraping. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 208
+  },
+  {
+    "chunk_id": "account_policy.pdf_p2_c0",
+    "filename": "account_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Account Policy",
+    "document_type": "Account Policy",
+    "page": 2,
+    "text": "\u2022 Temporary Deactivation: Customers may temporarily deactivate their accounts from the user profile settings. While deactivated, order history and saved cards remain preserved, but promotional emails and public profile actions are silenced. Logging in with existing credentials instantly reactivates the account. \u2022 Permanent Account Deletion: Under customer data privacy rights, users may submit a permanent account deletion request. The account enters a 30-day grace period during which the request can be cancelled. All pending orders, active returns, and open warranty claims must be fully completed before deletion processing can commence. After 30 days, personal data is irreversibly purged, except transaction records retained for statutory tax compliance. 5. Multiple Accounts & Guest Checkout Guidelines Family members within the same physical household are permitted to maintain separate accounts. However, creating synthetic multiple accounts to exploit single-use introductory discounts (e.g. WELCOME100), referral bonuses, or bulk promotional coupons constitutes promotional fraud and will trigger account pooling or closure. Guest Checkout: Users may place orders without creating a password-protected account by providing a delivery address, mobile number, and email. Guest orders can be tracked via SMS order links and may be converted into full registered accounts at any time by setting a password. 6. Account Scenarios & Practical Examples EXAMPLE: FORGOTTEN CREDENTIALS WHILE TRAVELLING Scenario: A customer is traveling and locked out of their SIM",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "account_policy.pdf_p2_c1",
+    "filename": "account_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Account Policy",
+    "document_type": "Account Policy",
+    "page": 2,
+    "text": "be converted into full registered accounts at any time by setting a password. 6. Account Scenarios & Practical Examples EXAMPLE: FORGOTTEN CREDENTIALS WHILE TRAVELLING Scenario: A customer is traveling and locked out of their SIM card while needing to check an order status. Solution: The customer can use the 'Verify via Email' alternative on the login screen. An emergency login link is dispatched to their registered email address, allowing temporary authenticated access for 2 hours. ABSOLUTE SECURITY MANDATE ShopEase support staff will NEVER request: Password, OTP, CVV, Card PIN, Authentication codes. Any caller or email demanding these details is fraudulent and must be reported immediately. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 140
+  },
+  {
+    "chunk_id": "cancellation_policy.pdf_p1_c0",
+    "filename": "cancellation_policy.pdf",
+    "document_title": "ShopEase \u2014 Order Cancellation Policy",
+    "document_type": "Cancellation Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Order Cancellation Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Cancellation Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Core Cancellation Rule & Eligibility ShopEase provides a hassle-free, transparent cancellation framework designed to give customers maximum flexibility while ensuring efficient warehouse logistics. AUTHORITATIVE CANCELLATION RULE Rule: Customers can cancel an order free of charge before the order reaches 'Shipped' status. No cancellation fees, administrative deductions, or penalty charges apply to any order cancelled prior to shipment. 2. Order Lifecycle Stages & Cancellation Rules The ability to cancel depends directly on the real-time operational status of the consignment: Lifecycle Stage Cancellation Permitted? Operational Action & Fee Order Placed / Confirmed Yes (Instant) 1-click cancellation via user app/web dashboard. \u20b90 fee. Order Processing / Packed Yes (Permitted) Cancellation allowed in system before handover to logistics. \u20b90 fee. Shipped / In Transit No (Directly) Order has left fulfillment center. Customer must refuse delivery at doorstep. Out for Delivery No (Directly) Customer informs courier to cancel and refuse physical delivery. Delivered No (Completed) Order closed. Governed by 7 calendar days Return Policy. 3. Handling Cancellations After Shipment Once an order transitions to 'Shipped' status, the consignment is in the physical custody of our third-party logistics courier network and its routing cannot be instantly halted via the user",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "cancellation_policy.pdf_p1_c1",
+    "filename": "cancellation_policy.pdf",
+    "document_title": "ShopEase \u2014 Order Cancellation Policy",
+    "document_type": "Cancellation Policy",
+    "page": 1,
+    "text": "3. Handling Cancellations After Shipment Once an order transitions to 'Shipped' status, the consignment is in the physical custody of our third-party logistics courier network and its routing cannot be instantly halted via the user interface. In such situations: 1. Doorstep Refusal: When the delivery executive arrives or contacts you for delivery, inform them that you wish to cancel the order and decline acceptance. 2. Return to Origin (RTO): The courier updates the delivery status to 'Refused by Customer - RTO Initiated'. 3. Automated Refund Trigger: Upon physical return of the package to our fulfillment hub, a 100% refund is automatically released to your original payment method. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 120
+  },
+  {
+    "chunk_id": "cancellation_policy.pdf_p2_c0",
+    "filename": "cancellation_policy.pdf",
+    "document_title": "ShopEase \u2014 Order Cancellation Policy",
+    "document_type": "Cancellation Policy",
+    "page": 2,
+    "text": "4. Partial, Seller, and System Auto-Cancellations Partial Order Cancellation: If an order contains multiple distinct items, customers can cancel individual items independently before those specific items enter 'Shipped' status. Remaining uncancelled items proceed to fulfillment without interruption. Any pro-rated delivery or coupon threshold adjustments are recalculated automatically. Seller-Initiated Cancellations: In rare instances where a merchant or fulfillment warehouse experiences a sudden stock discrepancy or quality-check failure prior to dispatch, ShopEase will immediately cancel the order, release a 100% refund within 24 hours, and credit a \u20b9100 apology shopping voucher to the customer account. System Auto-Cancellations: Orders pending online payment verification for more than 15 minutes, or orders with unverifiable, incomplete delivery addresses that fail phone confirmation, will be automatically cancelled by the system. 5. Cancellation Refund Timelines & Practical Examples When an order is cancelled prior to shipment, refund initiation is instantaneous. Funds reflect in the customer's account according to the standard banking schedule: UPI (24\u201348 hours), Wallets (24 hours), Cards (5\u20137 business days), Net Banking (3\u20135 business days). PRACTICAL EXAMPLE: CANCELLING AFTER SHIPPING Scenario: Customer orders a mixer grinder at 10:00 AM on Monday. By 4:00 PM Tuesday, the order status changes to 'Shipped'. At 5:00 PM Tuesday, the customer decides to cancel. Resolution: The customer cannot click 'Cancel' on the portal because dispatch has occurred. The customer refuses",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "cancellation_policy.pdf_p2_c1",
+    "filename": "cancellation_policy.pdf",
+    "document_title": "ShopEase \u2014 Order Cancellation Policy",
+    "document_type": "Cancellation Policy",
+    "page": 2,
+    "text": "By 4:00 PM Tuesday, the order status changes to 'Shipped'. At 5:00 PM Tuesday, the customer decides to cancel. Resolution: The customer cannot click 'Cancel' on the portal because dispatch has occurred. The customer refuses the package when the courier attempts delivery on Thursday. Once the courier marks the shipment as RTO, full refund is credited back via UPI within 24\u201348 hours. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 97
+  },
+  {
+    "chunk_id": "company_overview.pdf_p1_c0",
+    "filename": "company_overview.pdf",
+    "document_title": "ShopEase \u2014 Corporate & Operational Overview",
+    "document_type": "Company Overview",
+    "page": 1,
+    "text": "ShopEase \u2014 Corporate & Operational Overview Company: ShopEase Effective Date: 01 September 2026 Document Type: Company Overview Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. About ShopEase ShopEase is an Indian e-commerce platform founded to provide seamless, dependable, and high-speed online shopping across India. Headquartered in Bengaluru, Karnataka, ShopEase connects millions of consumers with authentic retail products and trusted third-party merchants across all states and union territories. All operations, pricing, and transactions are conducted in Indian Rupees (INR, \u20b9) and operate on Indian Standard Time (IST). FICTIONAL COMPANY DISCLOSURE ShopEase is a fictional company created strictly for an AI/ML portfolio project. It is not a real business entity, and these policies are created solely for demonstration, testing, and benchmark retrieval purposes. 2. Business Model & Operations ShopEase operates a hybrid commerce ecosystem combining direct retail fulfillment with a verified third-party marketplace: \u2022 Direct Retail Model (ShopEase Retail): Fast-moving consumer goods, curated electronics, and private-label essentials are procured directly from authorized brand distributors and stored in state-of-the-art ShopEase Fulfillment Centers (SFCs). \u2022 Marketplace Model (Verified Sellers): Independent manufacturers and regional merchants list authenticated products on the ShopEase Marketplace. All marketplace sellers undergo rigorous GSTIN validation, trademark authentication, and ongoing quality audits. \u2022 ShopEase Fulfilled Badge: Products marked with the 'ShopEase Fulfilled' badge are inspected, packaged, and dispatched directly from",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "company_overview.pdf_p1_c1",
+    "filename": "company_overview.pdf",
+    "document_title": "ShopEase \u2014 Corporate & Operational Overview",
+    "document_type": "Company Overview",
+    "page": 1,
+    "text": "on the ShopEase Marketplace. All marketplace sellers undergo rigorous GSTIN validation, trademark authentication, and ongoing quality audits. \u2022 ShopEase Fulfilled Badge: Products marked with the 'ShopEase Fulfilled' badge are inspected, packaged, and dispatched directly from ShopEase fulfillment hubs, ensuring rigorous quality controls and priority logistics. 3. Product Catalog & Categories ShopEase offers a comprehensive assortment of over 2 million stock-keeping units (SKUs) across primary retail verticals: Category Vertical Typical Products Fulfillment SLA Consumer Electronics Smartphones, laptops, smart TVs, audio accessories Standard: 3\u20137 business days; Express: 1\u20133 business days Fashion & Lifestyle Apparel, footwear, luggage, watches, jewelry Standard: 3\u20137 business days Home & Kitchen Small appliances, cookware, furniture, home decor Standard: 3\u20137 business days Beauty & Personal Care Skincare, grooming tools, wellness essentials Standard: 3\u20137 business days Daily Grocery & Essentials Packaged foods, beverages, household supplies Standard: 3\u20137 business days; Local Express: 1\u20132 days ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 3",
+    "word_count": 156
+  },
+  {
+    "chunk_id": "company_overview.pdf_p2_c0",
+    "filename": "company_overview.pdf",
+    "document_title": "ShopEase \u2014 Corporate & Operational Overview",
+    "document_type": "Company Overview",
+    "page": 2,
+    "text": "4. End-to-End Order Lifecycle Every order on ShopEase traverses a strictly governed operational lifecycle: 1. Order Placed: The customer authorizes payment or selects Cash on Delivery (COD). An automated confirmation notification is dispatched via SMS and registered email. 2. Order Confirmed & Processing: The order details are verified, inventory is locked, and picking manifests are generated at the respective fulfillment center or seller hub. 3. Packed & Dispatched: Goods are securely packed in tamper-evident materials and assigned an Air Waybill (AWB) tracking number. 4. In Transit / Shipped: The shipment moves through designated regional sorting hubs and surface or air logistics corridors. 5. Out for Delivery: Assigned courier delivery agent attempts doorstep delivery with pre-delivery SMS/call alerts. 6. Delivered / Closed: Proof of delivery is confirmed via customer OTP or signature; invoice is generated in account dashboard. 5. Core Policy Summary & Authoritative Reference Values ShopEase maintains transparent and definitive operational standards. The following values serve as the company's master source of truth across all channels: Operational Domain Authoritative Standard Governing Policy Customer Support Hours Monday\u2013Saturday, 9:00 AM\u20138:00 PM IST; Sunday: Closed contact_information.pdf General Support Email support@shopease.example contact_information.pdf Standard Shipping 3\u20137 business days across India shipping_policy.pdf Express Shipping 1\u20133 business days in eligible metro/tier-1 cities shipping_policy.pdf Standard Return Window 7 calendar days from confirmed delivery return_policy.pdf Cancellation Rule Customers can",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "company_overview.pdf_p2_c1",
+    "filename": "company_overview.pdf",
+    "document_title": "ShopEase \u2014 Corporate & Operational Overview",
+    "document_type": "Company Overview",
+    "page": 2,
+    "text": "Email support@shopease.example contact_information.pdf Standard Shipping 3\u20137 business days across India shipping_policy.pdf Express Shipping 1\u20133 business days in eligible metro/tier-1 cities shipping_policy.pdf Standard Return Window 7 calendar days from confirmed delivery return_policy.pdf Cancellation Rule Customers can cancel an order free of charge before the order reaches 'Shipped' status. cancellation_policy.pdf Electronics Warranty 12-month manufacturer warranty on selected electronics warranty_policy.pdf Basic Membership Free forever for all registered customers membership_policy.pdf Plus Membership \u20b9499/year (Free shipping, 5% exclusive member discount) membership_policy.pdf Premium Membership \u20b9999/year (Free express shipping, 10% discount, +6 mo. warranty) membership_policy.pdf 6. Customer Support Channels & Terminology Customers can reach ShopEase support via multiple assisted channels during operational hours (Monday\u2013Saturday, 9:00 AM\u20138:00 PM IST, Sunday: Closed): \u2022 Email Support: General queries directed to support@shopease.example (Standard response SLA: within 24 business hours). \u2022 In-App / Web Live Chat: Instant interactive messaging accessible via the customer account dashboard. \u2022 Toll-Free Phone Helpline: 1800-123-EASE (1800-123-3273) for urgent delivery and transaction escalations. ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 3",
+    "word_count": 179
+  },
+  {
+    "chunk_id": "company_overview.pdf_p3_c0",
+    "filename": "company_overview.pdf",
+    "document_title": "ShopEase \u2014 Corporate & Operational Overview",
+    "document_type": "Company Overview",
+    "page": 3,
+    "text": "Key Terminology: \u2022 AWB (Air Waybill): Unique consignment identifier used to track package movements with courier partners. \u2022 COD (Cash on Delivery): Payment collected in physical cash or doorstep UPI at the moment of physical handover. \u2022 RTO (Return to Origin): Undelivered package returned back to fulfillment center after 3 unsuccessful delivery attempts. \u2022 SLA (Service Level Agreement): The committed timeframe within which an operational or support action must be completed. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 3 of 3",
+    "word_count": 106
+  },
+  {
+    "chunk_id": "contact_information.pdf_p1_c0",
+    "filename": "contact_information.pdf",
+    "document_title": "ShopEase \u2014 Customer Support & Escalation Matrix",
+    "document_type": "Contact Information & Escalations",
+    "page": 1,
+    "text": "ShopEase \u2014 Customer Support & Escalation Matrix Company: ShopEase Effective Date: 01 September 2026 Document Type: Contact Information & Escalations Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Authoritative Operating Hours & General Contact ShopEase provides dedicated, omnichannel customer support across multiple assisted channels. Operating schedules and core contact details are strictly standardized across our operations: AUTHORITATIVE CUSTOMER SUPPORT STANDARDS \u2022 Operating Days & Hours: Monday\u2013Saturday, 9:00 AM\u20138:00 PM IST \u2022 Sunday: Closed (Automated bot and ticketing system active; agent responses resume Monday 9:00 AM IST) \u2022 General Support Email: support@shopease.example \u2022 Toll-Free Support Helpline: 1800-123-EASE (1800-123-3273) 2. Specialized Support Channels & Service Level Agreements (SLAs) To ensure efficient ticket resolution, inquiries are routed to specialized resolution desks: Department / Desk Email Address / Contact Operating Hours (IST) First Response SLA General Customer Care support@shopease.example Mon\u2013Sat, 9:00 AM\u20138:00 PM Within 24 business hours Order & Shipping Desk orders@shopease.example Mon\u2013Sat, 9:00 AM\u20138:00 PM Within 12 business hours Refunds & Billing Desk refunds@shopease.example Mon\u2013Sat, 9:00 AM\u20138:00 PM Within 12\u201324 business hours Warranty & Service Desk warranty@shopease.example Mon\u2013Sat, 9:00 AM\u20138:00 PM Within 24 business hours Security & Fraud Desk security@shopease.example 24/7 Monitoring (Critical) Urgent: Within 2\u20134 hours Data Privacy Officer privacy@shopease.example Mon\u2013Fri, 9:00 AM\u20136:00 PM Within 48 business hours Grievance Redressal grievance@shopease.example Mon\u2013Fri, 10:00 AM\u20136:00 PM Within 24\u201348 business hours 3.",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "contact_information.pdf_p1_c1",
+    "filename": "contact_information.pdf",
+    "document_title": "ShopEase \u2014 Customer Support & Escalation Matrix",
+    "document_type": "Contact Information & Escalations",
+    "page": 1,
+    "text": "& Fraud Desk security@shopease.example 24/7 Monitoring (Critical) Urgent: Within 2\u20134 hours Data Privacy Officer privacy@shopease.example Mon\u2013Fri, 9:00 AM\u20136:00 PM Within 48 business hours Grievance Redressal grievance@shopease.example Mon\u2013Fri, 10:00 AM\u20136:00 PM Within 24\u201348 business hours 3. Structured Three-Tier Escalation Matrix If an inquiry or complaint is not satisfactorily resolved within standard operational SLAs, customers can escalate through our structured three-tier grievance redressal framework: \u2022 Level 1 \u2014 Frontline Support: Contact via in-app live chat, toll-free phone (1800-123-EASE), or email to support@shopease.example. The frontline team resolves general delivery, payment, return, or cancellation inquiries within 24 to 48 hours. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 109
+  },
+  {
+    "chunk_id": "contact_information.pdf_p2_c0",
+    "filename": "contact_information.pdf",
+    "document_title": "ShopEase \u2014 Customer Support & Escalation Matrix",
+    "document_type": "Contact Information & Escalations",
+    "page": 2,
+    "text": "\u2022 Level 2 \u2014 Resolution Specialist / Team Lead: If Level 1 resolution is unsatisfactory or delayed beyond 48 hours, the ticket may be escalated to a Senior Team Lead via 'Escalate Ticket' in the support portal or by emailing escalations@shopease.example. Resolution SLA: 48 to 72 business hours. \u2022 Level 3 \u2014 Grievance Redressal Officer: In accordance with the Consumer Protection (E-Commerce) Rules, 2020, customers may lodge a formal complaint with our designated Grievance Officer: Mr. Rajesh Sharma, Head of Grievance Redressal, ShopEase E-Commerce India, Email: grievance@shopease.example. Final resolution SLA: Within 7 business days. 4. Step-by-Step Support Workflows & Notice Order Support Process: Have your 12-digit Order ID (e.g. SE-2026-XXXX) and registered phone number ready when initiating chat or calling the helpline for immediate identification. Refund Support Process: Provide your Order ID, Return Pickup Slip number, and Bank Transaction UTR if escalating delayed banking settlement. Warranty Support Process: Submit your downloaded GST invoice and clear pictures/video of the malfunctioning equipment to warranty@shopease.example. FICTIONAL COMPANY NOTICE All contact details, phone numbers, and personnel names mentioned herein are entirely fictional and designed exclusively for an AI/ML portfolio demonstration project. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "contact_information.pdf_p2_c1",
+    "filename": "contact_information.pdf",
+    "document_title": "ShopEase \u2014 Customer Support & Escalation Matrix",
+    "document_type": "Contact Information & Escalations",
+    "page": 2,
+    "text": "demonstration project. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 37
+  },
+  {
+    "chunk_id": "discount_policy.pdf_p1_c0",
+    "filename": "discount_policy.pdf",
+    "document_title": "ShopEase \u2014 Promotional Discount & Coupon Policy",
+    "document_type": "Discount Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Promotional Discount & Coupon Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Discount Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Promotional Discounts & Coupon Voucher Structure ShopEase offers seasonal promotions, cart-level vouchers, and category-specific discounts to deliver enhanced shopping value to our customers across India. All currency denominations are expressed in Indian Rupees (INR, \u20b9). Discount Type Code Format / Trigger Eligibility & Thresholds Example Application Welcome Coupon WELCOME100 First-time registered users; MOV \u20b9999 Instant \u20b9100 flat discount off first order Cart Threshold Voucher FESTIVE200 Minimum Order Value (MOV) \u20b91,999 Flat \u20b9200 off on cart totals \u2265 \u20b91,999 Mega Festive Saver MEGA500 Minimum Order Value (MOV) \u20b94,999 Flat \u20b9500 off on cart totals \u2265 \u20b94,999 Category Promotion TECH10 Selected electronics & accessories 10% discount up to a maximum cap of \u20b91,000 2. Authoritative Coupon Application Rules ONE-COUPON-PER-ORDER MANDATE Rule: Customers may apply exactly ONE promotional coupon code per order during checkout. Stacking multiple promotional coupon vouchers on a single cart is strictly prohibited. COUPON + MEMBERSHIP DISCOUNT STACKING RULE Rule: While multiple coupon vouchers cannot be combined together, an eligible promotional coupon CAN be stacked with an active ShopEase Membership tier discount (Plus 5% or Premium 10%). The tier discount is deducted first from eligible list prices, and the coupon code is",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "discount_policy.pdf_p1_c1",
+    "filename": "discount_policy.pdf",
+    "document_title": "ShopEase \u2014 Promotional Discount & Coupon Policy",
+    "document_type": "Discount Policy",
+    "page": 1,
+    "text": "together, an eligible promotional coupon CAN be stacked with an active ShopEase Membership tier discount (Plus 5% or Premium 10%). The tier discount is deducted first from eligible list prices, and the coupon code is subsequently applied to the resulting subtotal, provided the net value meets the Minimum Order Value (MOV) requirement. 3. Minimum Order Value (MOV), Expiration & Exclusions Minimum Order Value (MOV): The MOV represents the net value of eligible merchandise required in the shopping basket before taxes and shipping fees are calculated. If an item is removed from the cart causing the subtotal to fall below the MOV, the coupon discount is automatically decoupled. Promotional Expiration: All promotional coupons possess strict validity dates and times (evaluated in Indian Standard Time, IST). Expired coupon codes cannot be reactivated or extended by customer support personnel. Category Exclusions: Unless explicitly indicated in special promotional terms, coupon discounts cannot be redeemed against the purchase of bullion (gold/silver coins), infant formula, digital gift cards, or ShopEase Plus/Premium membership subscriptions. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 180
+  },
+  {
+    "chunk_id": "discount_policy.pdf_p2_c0",
+    "filename": "discount_policy.pdf",
+    "document_title": "ShopEase \u2014 Promotional Discount & Coupon Policy",
+    "document_type": "Discount Policy",
+    "page": 2,
+    "text": "4. Cancellation & Refund Calculations on Discounted Orders Refund Calculation Principle: In the event of a returned or cancelled discounted order, the refund credited to the customer corresponds strictly to the net amount actually paid out of pocket, never the gross Manufacturer's Recommended Price (MRP) or pre-discount retail value. Restoration of Single-Use Coupons: If an entire order placed using a single-use coupon is cancelled prior to shipment (either by the customer or due to seller stockout), the coupon code is automatically reinstated and re-credited to the customer's account wallet within 2 hours, retaining its original validity period. Partial Return Impact: If an order qualifies for a threshold discount (e.g. \u20b9200 off on \u20b91,999 MOV) and a customer later returns one item such that the retained order value drops below \u20b91,999, the \u20b9200 discount is forfeited and adjusted against the refund payable for the returned item. 5. Detailed Calculation Example CALCULATION EXAMPLE: MEMBERSHIP + PROMOTIONAL COUPON Scenario: A Premium member purchases a smartwatch listed at \u20b93,000 and applies coupon FESTIVE200 (MOV \u20b91,999). Step 1: Premium member gets 10% tier discount: \u20b93,000 - \u20b9300 = \u20b92,700. Step 2: Subtotal \u20b92,700 exceeds the MOV of \u20b91,999. FESTIVE200 is successfully applied: \u20b92,700 - \u20b9200 = \u20b92,500. Step 3: Premium member receives free shipping. Final checkout price paid: \u20b92,500 (Total savings: \u20b9500). End of Document",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "discount_policy.pdf_p2_c1",
+    "filename": "discount_policy.pdf",
+    "document_title": "ShopEase \u2014 Promotional Discount & Coupon Policy",
+    "document_type": "Discount Policy",
+    "page": 2,
+    "text": "2: Subtotal \u20b92,700 exceeds the MOV of \u20b91,999. FESTIVE200 is successfully applied: \u20b92,700 - \u20b9200 = \u20b92,500. Step 3: Premium member receives free shipping. Final checkout price paid: \u20b92,500 (Total savings: \u20b9500). End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 67
+  },
+  {
+    "chunk_id": "faq.pdf_p1_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 1,
+    "text": "ShopEase \u2014 Frequently Asked Questions (FAQ) Company: ShopEase Effective Date: 01 September 2026 Document Type: Frequently Asked Questions Last Updated: 01 September 2026 Version: 1.0 Status: Active ShopEase Frequently Asked Questions (FAQ) This repository contains 137 authoritative frequently asked questions covering all primary customer support operations, policies, and workflows for ShopEase. Every entry specifies the customer question, authoritative answer, category, and related policy document. KNOWLEDGE BASE QUERY GUIDELINE Each FAQ is indexed for semantic and keyword retrieval in RAG systems. All responses strictly adhere to the master policy rules (Support: Mon\u2013Sat 9AM\u20138PM IST, Standard Shipping: 3\u20137 days, Express Shipping: 1\u20133 days, Return Window: 7 calendar days, Warranty: 12 months, Memberships: Basic Free / Plus \u20b9499 / Premium \u20b9999, Cancellation: Free before Shipped). Section 1: Account FAQs Question: How do I create a new account on ShopEase? Answer: To create an account, click 'Sign Up' on the ShopEase website or app. Enter your 10-digit Indian mobile phone number, full name, and valid email address. You will receive a 6-digit SMS OTP to verify your phone number and an activation email to verify your email address. Once verified, create a strong password conforming to our security rules. Category: Account | Related Policy:",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p1_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 1,
+    "text": "to verify your phone number and an activation email to verify your email address. Once verified, create a strong password conforming to our security rules. Category: Account | Related Policy: account_policy.pdf Question: What are the password requirements when signing up? Answer: Your ShopEase password must contain a minimum of 8 characters, including at least one uppercase letter (A\u2013Z), one lowercase letter (a\u2013z), one numeric digit (0\u20139), and one special symbol (such as @, #, $, %, !). Passwords matching common dictionary terms or your mobile number are not permitted. Category: Account | Related Policy: account_policy.pdf Question: I did not receive the OTP for phone verification. What should I do? Answer: SMS OTPs are delivered within 60 seconds. If you have not received it, check your cellular network reception, ensure DND (Do Not Disturb) is not blocking service SMS, and click 'Resend OTP'. Note that OTPs are valid for 10 minutes, and a maximum of 3 OTP attempts are permitted within a rolling 60-minute period. Category: Account | Related Policy: account_policy.pdf ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 21",
+    "word_count": 183
+  },
+  {
+    "chunk_id": "faq.pdf_p2_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 2,
+    "text": "Question: Can I change the phone number linked to my ShopEase account? Answer: Yes. Navigate to 'My Account > Security Settings > Update Phone Number'. For your security, a dual-factor verification is required: OTPs will be dispatched simultaneously to your existing registered number and your new mobile number. Once both are validated, your profile updates immediately. Category: Account | Related Policy: account_policy.pdf Question: How do I update my registered email address? Answer: Go to 'My Account > Profile > Edit Email'. Enter your account password to confirm your identity, followed by your new email address. A cryptographic confirmation link will be sent to the new email address. Click the link within 24 hours to finalize the update. Category: Account | Related Policy: account_policy.pdf Question: I forgot my password. How can I regain access to my account? Answer: On the login screen, click 'Forgot Password?'. Enter your registered mobile number or email address. You can choose to reset your password via a 6-digit SMS OTP or a secure password reset link sent to your verified email address. Category: Account | Related Policy: account_policy.pdf Question: Can I place an order as a guest without creating an account? Answer: Yes. ShopEase supports guest",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p2_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 2,
+    "text": "sent to your verified email address. Category: Account | Related Policy: account_policy.pdf Question: Can I place an order as a guest without creating an account? Answer: Yes. ShopEase supports guest checkout. You only need to provide a delivery address, email, and mobile phone number for order tracking. You can convert your guest profile into a full registered account anytime by setting a password. Category: Account | Related Policy: account_policy.pdf Question: Can two family members share the same mobile number for separate accounts? Answer: No. Each ShopEase account requires a unique mobile phone number and unique email address. Family members may use their own separate mobile numbers, or share a single family account with multiple saved delivery addresses. Category: Account | Related Policy: account_policy.pdf Question: How do I temporarily deactivate my ShopEase account? Answer: You can temporarily deactivate your account under 'My Account > Settings > Deactivate Account'. While deactivated, your order history and saved addresses are preserved, but marketing emails are silenced. Logging back in with your credentials at any time instantly reactivates your account. Category: Account | Related Policy: account_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p2_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 2,
+    "text": "time instantly reactivates your account. Category: Account | Related Policy: account_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 21",
+    "word_count": 35
+  },
+  {
+    "chunk_id": "faq.pdf_p3_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 3,
+    "text": "Question: How do I permanently delete my account and personal data? Answer: To permanently delete your account, submit a deletion request under 'My Account > Privacy Settings' or email privacy@shopease.example. All open orders, active returns, and pending refunds must be completed first. The account enters a 30-day grace period, after which personal data is irreversibly erased, except statutory tax invoices. Category: Account | Related Policy: account_policy.pdf Question: Why was my ShopEase account suspended? Answer: Accounts may be suspended due to abnormal return velocities, suspected payment chargeback fraud, automated bot activity, or violations of our Terms of Service. If you believe your account was suspended in error, contact support@shopease.example for manual review. Category: Account | Related Policy: account_policy.pdf Question: I lost access to both my registered phone number and email. How can I recover my account? Answer: You must initiate formal identity recovery by writing to support@shopease.example. You will be required to verify previous order IDs, saved delivery addresses, and present government photo identification for identity validation. Category: Account | Related Policy: account_policy.pdf Section 2: Orders FAQs Question: Where can I view my past and current orders? Answer: All your orders can be viewed by logging into your ShopEase account and",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p3_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 3,
+    "text": "Policy: account_policy.pdf Section 2: Orders FAQs Question: Where can I view my past and current orders? Answer: All your orders can be viewed by logging into your ShopEase account and visiting 'My Orders'. You will find live tracking status, order invoices, item details, and action buttons for returns or cancellations. Category: Orders | Related Policy: company_overview.pdf Question: How do I download the tax invoice for my purchase? Answer: Go to 'My Orders', locate the specific order, and click 'Download Invoice'. A GST-compliant PDF invoice will download immediately. Invoices are accessible for up to 7 years from the date of purchase. Category: Orders | Related Policy: company_overview.pdf Question: What does 'Order Processing' status mean? Answer: 'Order Processing' indicates that your payment has been confirmed and the fulfillment center or seller has received the order manifest. The items are currently being picked, quality-checked, and packed for shipment. Category: Orders | Related Policy: company_overview.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 3 of 21",
+    "word_count": 175
+  },
+  {
+    "chunk_id": "faq.pdf_p4_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 4,
+    "text": "Question: Can I modify the items in an order after placing it? Answer: Items cannot be modified or swapped once an order is placed. If the order has not yet been marked as 'Shipped', you can cancel the order free of charge and place a new order with your desired items. Category: Orders | Related Policy: cancellation_policy.pdf Question: Why was my order split into multiple shipments? Answer: If you ordered multiple items that are stored in different fulfillment centers or sold by different marketplace sellers, they are dispatched in separate packages to ensure you receive each item as quickly as possible. You can track each shipment separately via its unique AWB number. Category: Orders | Related Policy: shipping_policy.pdf Question: Can I change my delivery address after an order is placed? Answer: You can modify your delivery address from 'My Orders' only while the order is in 'Order Placed' or 'Processing' status. Once the status changes to 'Shipped', the courier manifest is locked, and the destination address cannot be changed. Category: Orders | Related Policy: shipping_policy.pdf Question: Will I receive an order confirmation notification? Answer: Yes. As soon as your order is confirmed, ShopEase sends an automated SMS with your 12-digit",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p4_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 4,
+    "text": "Orders | Related Policy: shipping_policy.pdf Question: Will I receive an order confirmation notification? Answer: Yes. As soon as your order is confirmed, ShopEase sends an automated SMS with your 12-digit Order ID (e.g. SE-2026-XXXX) and a detailed confirmation email containing the itemized summary and estimated delivery dates. Category: Orders | Related Policy: company_overview.pdf Question: What should I do if an item is missing from my delivery package? Answer: First check 'My Orders' to see if your order was split into multiple deliveries. If all items were listed in the same package and an item is missing, report the issue to support@shopease.example within 48 hours of delivery with photos of the outer box and packing slip. Category: Orders | Related Policy: return_policy.pdf Question: Why did the seller cancel my confirmed order? Answer: In rare instances, a seller may cancel an order prior to dispatch due to an unexpected stock discrepancy or physical quality failure during pre-dispatch inspection. When this happens, a 100% refund is issued within 24 hours along with a \u20b9100 apology shopping credit. Category: Orders | Related Policy: cancellation_policy.pdf Question: Can I schedule a specific delivery date or time for my order? Answer: Currently, exact delivery slots cannot be",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p4_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 4,
+    "text": "\u20b9100 apology shopping credit. Category: Orders | Related Policy: cancellation_policy.pdf Question: Can I schedule a specific delivery date or time for my order? Answer: Currently, exact delivery slots cannot be pre-booked during checkout. However, when the courier agent is assigned on the delivery day ('Out for Delivery'), you will receive an SMS with their contact number to coordinate a convenient delivery window. Category: Orders | Related Policy: shipping_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 4 of 21",
+    "word_count": 92
+  },
+  {
+    "chunk_id": "faq.pdf_p5_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 5,
+    "text": "Question: What is the meaning of 'ShopEase Fulfilled' on product listings? Answer: Products bearing the 'ShopEase Fulfilled' badge are stored, inspected, packed, and shipped directly from ShopEase fulfillment centers. They undergo strict quality checks and qualify for accelerated shipping and priority returns. Category: Orders | Related Policy: company_overview.pdf Question: Can I reorder items from my past purchases with one click? Answer: Yes. Navigate to 'My Orders', find your previous purchase, and click 'Buy Again'. The items will be added directly to your shopping cart at the current live selling price. Category: Orders | Related Policy: company_overview.pdf Section 3: Payments FAQs Question: What payment methods are accepted on ShopEase? Answer: ShopEase accepts all major payment instruments: Credit Cards (Visa, MasterCard, RuPay, Amex), Debit Cards (all Indian banks), UPI (Google Pay, PhonePe, Paytm, BHIM), Net Banking (50+ banks), Digital Wallets, and Cash on Delivery (COD). Category: Payments | Related Policy: payment_policy.pdf Question: Is Cash on Delivery (COD) available for all pin codes? Answer: COD is available across the vast majority of eligible pin codes for orders up to a maximum value of \u20b910,000. Certain remote pin codes, high-value electronics, or customized items may require prepaid checkout. Category: Payments | Related Policy: payment_policy.pdf",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p5_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 5,
+    "text": "pin codes for orders up to a maximum value of \u20b910,000. Certain remote pin codes, high-value electronics, or customized items may require prepaid checkout. Category: Payments | Related Policy: payment_policy.pdf Question: Money was deducted from my bank account, but the order failed. Where is my money? Answer: If funds were debited but your order failed to generate, the funds are held in the banking intermediary clearing system. Under RBI regulations, your issuing bank will automatically credit the amount back to your source bank account within 24 to 48 business hours. Category: Payments | Related Policy: payment_policy.pdf Question: How do I pay using UPI on ShopEase? Answer: At checkout, select 'UPI'. You can either enter your UPI ID (VPA) to receive a payment collect request in your UPI app (Google Pay, PhonePe, Paytm) or scan the dynamic QR code displayed on the screen using any authorized UPI scanner. Category: Payments | Related Policy: payment_policy.pdf Question: Can I pay with international credit or debit cards? Answer: Currently, ShopEase only accepts credit and debit cards issued by banks operating within India with mandatory 3D Secure two-factor authentication (OTP). International cards are not supported at this time. Category: Payments | Related Policy: payment_policy.pdf ShopEase",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p5_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 5,
+    "text": "debit cards issued by banks operating within India with mandatory 3D Secure two-factor authentication (OTP). International cards are not supported at this time. Category: Payments | Related Policy: payment_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 5 of 21",
+    "word_count": 53
+  },
+  {
+    "chunk_id": "faq.pdf_p6_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 6,
+    "text": "Question: What should I do if my payment status is showing 'Payment Pending'? Answer: A 'Payment Pending' status occurs when banking networks experience brief latency. ShopEase holds your order in pending status for 15 minutes while polling the gateway. If confirmation arrives, the order is confirmed; if it times out, the order cancels and funds auto-reverse within 24\u201348 hours. Category: Payments | Related Policy: payment_policy.pdf Question: I was charged twice for the same order due to a network glitch. How will I get a refund? Answer: Our automated treasury reconciliation system detects duplicate charges for a single cart. The duplicate charge is automatically flagged and initiated for a 100% reversal within 24 hours back to your original payment instrument. Category: Payments | Related Policy: payment_policy.pdf Question: Is it safe to save my credit/debit card on ShopEase? Answer: Yes, it is completely secure. ShopEase complies strictly with RBI card tokenization directives and PCI-DSS Level 1 security standards. We never store your actual 16-digit card number or CVV; cards are tokenized into encrypted tokens. Category: Payments | Related Policy: payment_policy.pdf Question: Can I pay for a Cash on Delivery (COD) order using UPI at my doorstep? Answer: Yes. Most of our delivery",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p6_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 6,
+    "text": "encrypted tokens. Category: Payments | Related Policy: payment_policy.pdf Question: Can I pay for a Cash on Delivery (COD) order using UPI at my doorstep? Answer: Yes. Most of our delivery courier executives carry a dynamic UPI QR code on their handheld scanner device. You can scan and pay digitally via Google Pay, PhonePe, or Paytm at the time of delivery, or pay in physical cash. Category: Payments | Related Policy: payment_policy.pdf Question: Are there any hidden payment processing fees or surcharges? Answer: No. ShopEase charges zero payment processing surcharges across UPI, credit cards, debit cards, net banking, or digital wallets. The price shown at checkout is the final price inclusive of all applicable GST taxes. Category: Payments | Related Policy: payment_policy.pdf Question: Why is Cash on Delivery disabled for my current shopping cart? Answer: COD may be disabled if: (1) your cart value exceeds the \u20b910,000 threshold, (2) your delivery pin code is currently unserviceable for cash handling by logistics partners, or (3) your account has a high rate of previous delivery refusals. Category: Payments | Related Policy: payment_policy.pdf Question: Will ShopEase support agents ever ask for my card CVV or OTP over the phone? Answer: ABSOLUTELY NOT. ShopEase support",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p6_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 6,
+    "text": "previous delivery refusals. Category: Payments | Related Policy: payment_policy.pdf Question: Will ShopEase support agents ever ask for my card CVV or OTP over the phone? Answer: ABSOLUTELY NOT. ShopEase support staff will NEVER ask for your Password, OTP, CVV, Card PIN, or Authentication codes. Never disclose these credentials to anyone claiming to represent ShopEase. Category: Payments | Related Policy: security_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 6 of 21",
+    "word_count": 84
+  },
+  {
+    "chunk_id": "faq.pdf_p7_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 7,
+    "text": "Section 4: Shipping FAQs Question: What are the standard delivery timelines on ShopEase? Answer: Standard Shipping takes 3\u20137 business days across India. Business days exclude Sundays and national public holidays. Delivery times depend on the distance between our fulfillment center and your destination pin code. Category: Shipping | Related Policy: shipping_policy.pdf Question: How long does Express Shipping take? Answer: Express Shipping takes 1\u20133 business days. It is available for eligible pin codes in major metro areas and tier-1 cities on select fast-dispatch products. Category: Shipping | Related Policy: shipping_policy.pdf Question: How much does shipping cost on ShopEase? Answer: For Basic non-members, Standard Shipping is FREE on orders of \u20b9499 and above, and a flat \u20b949 for orders below \u20b9499. Express Shipping is \u20b999 per order. Plus members (\u20b9499/year) receive free Standard Shipping on all orders. Premium members (\u20b9999/year) receive free unlimited Express and Standard Shipping. Category: Shipping | Related Policy: shipping_policy.pdf Question: How can I track my package? Answer: You can track your package by logging into 'My Orders' and selecting 'Track Shipment'. You can view live tracking milestones and the courier's Air Waybill (AWB) tracking number directly linked to the courier portal. Category: Shipping | Related Policy: shipping_policy.pdf Question:",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p7_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 7,
+    "text": "selecting 'Track Shipment'. You can view live tracking milestones and the courier's Air Waybill (AWB) tracking number directly linked to the courier portal. Category: Shipping | Related Policy: shipping_policy.pdf Question: Where is my order? Can I check my delivery status? Answer: To check your delivery status, visit 'My Orders' on the app or website. You will see whether your package is 'Packed', 'Shipped', 'In Transit', or 'Out for Delivery'. You also receive SMS updates as each milestone is completed. Category: Shipping | Related Policy: shipping_policy.pdf Question: My order hasn't arrived yet and the delivery date passed. What should I do? Answer: If your package has not arrived within 7 business days for Standard Shipping (or 3 business days for Express), please check tracking for courier delay notes. If tracking is stagnant for more than 48 hours, contact support@shopease.example for an urgent courier trace. Category: Shipping | Related Policy: shipping_policy.pdf Question: How many delivery attempts will the courier make? Answer: Our courier partners make up to 3 consecutive delivery attempts on consecutive business days. If you are unavailable during all 3 attempts, the shipment is marked as Return to Origin (RTO) and returned to our warehouse. Category: Shipping | Related Policy:",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p7_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 7,
+    "text": "consecutive business days. If you are unavailable during all 3 attempts, the shipment is marked as Return to Origin (RTO) and returned to our warehouse. Category: Shipping | Related Policy: shipping_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 7 of 21",
+    "word_count": 55
+  },
+  {
+    "chunk_id": "faq.pdf_p8_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 8,
+    "text": "Question: What happens if a package is declared lost in transit? Answer: If a shipment has no tracking scans for 7 consecutive business days past the expected delivery date, ShopEase officially declares the package lost in transit. Customers are immediately offered their choice of a free priority replacement or a 100% full refund. Category: Shipping | Related Policy: shipping_policy.pdf Question: Can I change my delivery address while the package is in transit? Answer: No. Once an order reaches 'Shipped' status, the shipping label and carrier manifest are legally locked and cannot be rerouted in transit. You must wait for delivery or refuse the package at the doorstep. Category: Shipping | Related Policy: shipping_policy.pdf Question: What should I do if the delivery box arrives damaged or crushed? Answer: If the outer carton shows visible signs of severe crushing, tearing, or tampering, you should refuse delivery and state 'Refused Due to Outer Carton Damage' to the delivery executive. If already accepted, take photos immediately and report to support@shopease.example within 48 hours. Category: Shipping | Related Policy: shipping_policy.pdf Question: Does ShopEase ship to all states in India? Answer: Yes. ShopEase delivers across all 28 Indian states and 8 union territories, servicing over 19,000",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p8_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 8,
+    "text": "Shipping | Related Policy: shipping_policy.pdf Question: Does ShopEase ship to all states in India? Answer: Yes. ShopEase delivers across all 28 Indian states and 8 union territories, servicing over 19,000 pin codes through our national logistics network. Category: Shipping | Related Policy: shipping_policy.pdf Question: Will the delivery courier call me before arriving at my home? Answer: Yes. On the day of delivery when your status updates to 'Out for Delivery', you will receive an SMS containing the delivery executive's name and contact number. The agent will typically call you prior to attempting doorstep handover. Category: Shipping | Related Policy: shipping_policy.pdf Section 5: Returns FAQs Question: What is the return window for items bought on ShopEase? Answer: The standard return window on ShopEase is strictly 7 calendar days from confirmed delivery. For example, if your order is delivered on 10 September, you must request a return through the portal by 11:59 PM IST on 17 September. Category: Returns | Related Policy: return_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 8 of 21",
+    "word_count": 185
+  },
+  {
+    "chunk_id": "faq.pdf_p9_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 9,
+    "text": "Question: How do I request a return for an order? Answer: Go to 'My Orders', select the delivered order, and click 'Request Return / Replace'. Choose your reason for return, upload required photos/videos if the item is defective or damaged, select your preferred resolution (Replacement or Refund), and submit. Category: Returns | Related Policy: return_policy.pdf Question: What condition must products be in to qualify for a return? Answer: Items must be unused, unwashed, and in their original packaging with all manufacturer tags, brand labels, barcode stickers, user manuals, warranty cards, and bundled accessories completely intact. Category: Returns | Related Policy: return_policy.pdf Question: How does the doorstep reverse pickup work? Answer: Once your return request is approved, our logistics partner will arrive at your delivery address within 2 to 4 business days to pick up the item. The courier executive conducts a quick physical inspection before handing you an official pickup receipt. Category: Returns | Related Policy: return_policy.pdf Question: What should I do if I received a defective or non-working product? Answer: If a product is defective upon delivery, submit a return request within the 7 calendar days return window under 'Defective Item'. Upload clear photos or a short video demonstrating",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p9_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 9,
+    "text": "Answer: If a product is defective upon delivery, submit a return request within the 7 calendar days return window under 'Defective Item'. Upload clear photos or a short video demonstrating the defect. You can choose a free replacement or a full refund. Category: Returns | Related Policy: return_policy.pdf Question: What if I received the wrong product entirely? Answer: If you received an incorrect item or color/size mismatch, report it within 48 hours of delivery via 'My Orders > Return > Wrong Item'. Keep the item unopened in its original packaging. A free replacement of the correct item will be dispatched promptly. Category: Returns | Related Policy: return_policy.pdf Question: Which products cannot be returned on ShopEase? Answer: Non-returnable categories include innerwear, lingerie, socks, swimwear, cosmetics/perfumes once opened, perishable groceries, custom-made items, and digital gift cards. These items can only be replaced if delivered in a physically damaged condition. Category: Returns | Related Policy: return_policy.pdf Question: Do I have to pay any reverse pickup fees when returning an item? Answer: No. Reverse pickup is 100% FREE for all authorized returns within the 7 calendar days window across all customer tiers (Basic, Plus, and Premium). Category: Returns | Related Policy: return_policy.pdf ShopEase Customer",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p9_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 9,
+    "text": "pickup is 100% FREE for all authorized returns within the 7 calendar days window across all customer tiers (Basic, Plus, and Premium). Category: Returns | Related Policy: return_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 9 of 21",
+    "word_count": 52
+  },
+  {
+    "chunk_id": "faq.pdf_p10_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 10,
+    "text": "Question: Can I exchange an apparel item for a different size? Answer: Yes. When creating a return request under 'My Orders', select 'Replacement / Size Exchange' and choose your required size. If the size is in stock, a replacement shipment will be dispatched upon pickup of the original item. Category: Returns | Related Policy: return_policy.pdf Question: Why was my return request rejected by ShopEase? Answer: Returns may be rejected if: (1) the 7 calendar days window has expired, (2) the item shows signs of physical usage, washing, or damage caused by the customer, (3) tags or serial numbers are missing, or (4) the device was not factory-reset. Category: Returns | Related Policy: return_policy.pdf Question: Can I return a product after the 7-day return window has expired? Answer: No. Standard returns cannot be initiated after 7 calendar days from delivery. If the product is an electronic item that experiences a hardware malfunction after 7 days, it is covered under the 12-month manufacturer warranty policy. Category: Returns | Related Policy: warranty_policy.pdf Question: Do I need to return free gifts or promotional items bundled with my product? Answer: Yes. If you return an item that included free promotional merchandise or gifts, all bundled",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p10_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 10,
+    "text": "Do I need to return free gifts or promotional items bundled with my product? Answer: Yes. If you return an item that included free promotional merchandise or gifts, all bundled items must be returned together. If gifts are missing, their retail value will be deducted from your refund. Category: Returns | Related Policy: return_policy.pdf Section 6: Refunds FAQs Question: When does ShopEase initiate my refund? Answer: For order cancellations, refunds are initiated immediately (within minutes). For product returns, refunds are initiated within 24\u201348 hours after the returned item arrives at our fulfillment warehouse and passes quality inspection. Category: Refunds | Related Policy: refund_policy.pdf Question: How long will it take for my refund to appear in my bank account? Answer: Banking crediting timelines depend on your original payment method: UPI (24\u201348 hours), Digital Wallets (24 hours), Net Banking (3\u20135 business days), and Debit/Credit Cards (5\u20137 business days). Category: Refunds | Related Policy: refund_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 10 of 21",
+    "word_count": 176
+  },
+  {
+    "chunk_id": "faq.pdf_p11_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 11,
+    "text": "Question: How do I receive a refund for a Cash on Delivery (COD) order? Answer: For COD returns, you will receive an SMS and email with a secure link to submit your verified UPI ID or Bank Account details (Account Number + IFSC). Once details are submitted and the return passes inspection, the refund is transferred via NEFT/UPI within 3 to 5 business days. Category: Refunds | Related Policy: refund_policy.pdf Question: Can my refund be credited to a different bank account or credit card? Answer: For online prepaid transactions, RBI regulations require refunds to be remitted strictly to the original funding source. For COD purchases, refunds are credited to the verified bank account or UPI ID you provide. Category: Refunds | Related Policy: refund_policy.pdf Question: Will my original shipping fees be refunded if I return a product? Answer: If you return an item due to a defect, transit damage, or an incorrect shipment, the full shipping fee is refunded. If an order is returned due to customer preference or size change, the standard shipping fee incurred during initial delivery is non-refundable. Category: Refunds | Related Policy: refund_policy.pdf Question: What is a UTR number, and where can I find it? Answer:",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p11_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 11,
+    "text": "change, the standard shipping fee incurred during initial delivery is non-refundable. Category: Refunds | Related Policy: refund_policy.pdf Question: What is a UTR number, and where can I find it? Answer: A UTR (Unique Transaction Reference) is a bank tracking code generated for electronic fund transfers. When ShopEase releases your refund, we send you an SMS containing the UTR number. You can provide this number to your bank to trace the credit. Category: Refunds | Related Policy: refund_policy.pdf Question: My refund has not arrived within the stated SLA. What should I do? Answer: First, contact your bank and quote the UTR reference number from your ShopEase refund confirmation message. If your bank confirms no pending credit, email refunds@shopease.example with your Order ID and UTR for immediate reconciliation. Category: Refunds | Related Policy: refund_policy.pdf Question: How do refunds work if I return only one item from a multi-item order? Answer: Partial refunds are calculated based on the net price paid for the returned item. Any pro-rated cart discounts are adjusted, and the net amount is credited to your original payment method. Category: Refunds | Related Policy: refund_policy.pdf Question: If I paid using a credit card that has since expired or closed, how",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p11_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 11,
+    "text": "net amount is credited to your original payment method. Category: Refunds | Related Policy: refund_policy.pdf Question: If I paid using a credit card that has since expired or closed, how will I get my refund? Answer: Banks automatically route refund credits to the updated card or associated bank account even if the old card is expired or replaced. If the account is completely closed, contact your card issuing bank to transfer the pool funds to an active account. Category: Refunds | Related Policy: refund_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 11 of 21",
+    "word_count": 108
+  },
+  {
+    "chunk_id": "faq.pdf_p12_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 12,
+    "text": "Question: Can I choose ShopEase store credit instead of a bank refund? Answer: Yes. When initiating your return, you can opt for instant ShopEase Wallet Credit instead of a bank transfer. Wallet credits reflect instantly and can be used on any future purchase with no expiration. Category: Refunds | Related Policy: refund_policy.pdf Question: Is there any deduction or restocking fee on refunds? Answer: No. ShopEase does not charge any restocking fees, administrative fees, or return processing penalties. You receive 100% of the eligible net item value. Category: Refunds | Related Policy: refund_policy.pdf Question: What happens to the GST amount paid when a refund is processed? Answer: All refunds are calculated on the gross invoice amount inclusive of GST. When an order is refunded, the full GST amount charged on the product is refunded to you. Category: Refunds | Related Policy: refund_policy.pdf Section 7: Cancellation FAQs Question: Can I cancel my order on ShopEase? Answer: Customers can cancel an order free of charge before the order reaches 'Shipped' status. There are zero cancellation fees or penalties prior to shipment. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: How do I cancel an order from the app or website? Answer: Go to 'My",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p12_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 12,
+    "text": "zero cancellation fees or penalties prior to shipment. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: How do I cancel an order from the app or website? Answer: Go to 'My Orders', locate your active order, and click 'Cancel Order'. Select your reason for cancellation and confirm. If the order has not been shipped, it will be cancelled instantly. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: Can I cancel an order after it has already been shipped? Answer: Once an order status reaches 'Shipped', direct cancellation through the app is disabled because the parcel is with the courier. However, you can simply refuse delivery when the courier arrives at your doorstep. Upon return to our warehouse, a full refund will be initiated. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: Are there any charges for cancelling an order? Answer: No. There are absolutely zero cancellation charges (\u20b90) for cancelling orders before they reach 'Shipped' status. Category: Cancellation | Related Policy: cancellation_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 12 of 21",
+    "word_count": 183
+  },
+  {
+    "chunk_id": "faq.pdf_p13_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 13,
+    "text": "Question: Can I cancel just one item from an order containing multiple items? Answer: Yes. You can cancel individual items independently before those specific items are marked as 'Shipped'. Remaining items in your order will be delivered normally. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: What happens if I refuse delivery when the courier arrives? Answer: If you refuse delivery, the courier will mark the consignment as 'Refused by Customer - Return to Origin (RTO)'. Once the parcel arrives back at our fulfillment center, a 100% refund is initiated back to your original payment method. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: How quickly do I get my money back after cancelling an order? Answer: Cancellation refunds are triggered immediately. Crediting takes 24\u201348 hours for UPI, 24 hours for Wallets, 3\u20135 business days for Net Banking, and 5\u20137 business days for Debit/Credit Cards. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: Can ShopEase automatically cancel my order without my consent? Answer: ShopEase may automatically cancel an order if: (1) payment remains unconfirmed after 15 minutes, (2) the delivery address is incomplete and cannot be verified, or (3) the seller experiences an unexpected inventory stockout. In all cases, 100% of your money",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p13_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 13,
+    "text": "unconfirmed after 15 minutes, (2) the delivery address is incomplete and cannot be verified, or (3) the seller experiences an unexpected inventory stockout. In all cases, 100% of your money is refunded. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: What happens to the coupon code I used if I cancel my order? Answer: If you cancel an entire order that utilized a single-use promotional coupon, the coupon code is automatically reinstated to your account within 2 hours with its original expiration date intact. Category: Cancellation | Related Policy: discount_policy.pdf Question: Can I undo a cancellation if I change my mind? Answer: No. Once an order is cancelled, the inventory is immediately released back to the catalog and cannot be reinstated. You will need to place a fresh order. Category: Cancellation | Related Policy: cancellation_policy.pdf Question: Can I cancel an order after it has been marked as delivered? Answer: No. A delivered order cannot be cancelled. However, if the item is eligible, you can initiate a standard return within 7 calendar days from delivery under our Return Policy. Category: Cancellation | Related Policy: return_policy.pdf Section 8: Warranty FAQs ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p13_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 13,
+    "text": "days from delivery under our Return Policy. Category: Cancellation | Related Policy: return_policy.pdf Section 8: Warranty FAQs ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 13 of 21",
+    "word_count": 41
+  },
+  {
+    "chunk_id": "faq.pdf_p14_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 14,
+    "text": "Question: What is the standard warranty on electronics sold on ShopEase? Answer: Selected electronics carry a standard 12-month manufacturer warranty. The warranty displayed on the individual product listing is the applicable warranty for that product, and the 12-month period is the standard warranty reference for selected electronics. Category: Warranty | Related Policy: warranty_policy.pdf Question: How do I claim a warranty for a malfunctioning electronic item? Answer: To claim warranty: (1) Download your official GST invoice from 'My Orders', (2) Locate the brand's authorized service center in your city or contact warranty@shopease.example for assistance, and (3) Present the invoice and device at the authorized service center for inspection and free repair. Category: Warranty | Related Policy: warranty_policy.pdf Question: What defects are covered under the manufacturer warranty? Answer: Warranty covers internal manufacturing defects, hardware component breakdowns, motherboard failures, motor defects, and audio/display circuit failures occurring under normal domestic usage as specified in the product manual. Category: Warranty | Related Policy: warranty_policy.pdf Question: Is accidental damage or cracked screen covered under warranty? Answer: No. Standard manufacturer warranty strictly excludes physical damage (drops, cracked screens, structural breakage), liquid spills or water submersion, power surge burnout, and unauthorized third-party repairs. Category: Warranty | Related Policy:",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p14_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 14,
+    "text": "No. Standard manufacturer warranty strictly excludes physical damage (drops, cracked screens, structural breakage), liquid spills or water submersion, power surge burnout, and unauthorized third-party repairs. Category: Warranty | Related Policy: warranty_policy.pdf Question: Do I need a physical warranty card to claim service? Answer: For most authorized service centers across India, your official ShopEase GST tax invoice (downloadable from 'My Orders') showing the device serial number is sufficient proof of warranty. A physical warranty card is not mandatory if the invoice is present. Category: Warranty | Related Policy: warranty_policy.pdf Question: What is the difference between the 7-day return window and the warranty? Answer: The 7 calendar days return window covers items received defective, damaged, or mismatched upon delivery, allowing instant return/replacement through ShopEase. Beyond 7 days, issues are handled under the 12-month manufacturer warranty through brand service centers. Category: Warranty | Related Policy: warranty_policy.pdf Question: What extended warranty benefits do ShopEase Premium members receive? Answer: ShopEase Premium members (\u20b9999/year) receive an extra 6 months of comprehensive extended warranty on selected electronics, extending total protection to 18 months (12 months manufacturer warranty + 6 months ShopEase extended coverage). Category: Warranty | Related Policy: membership_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p14_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 14,
+    "text": "extending total protection to 18 months (12 months manufacturer warranty + 6 months ShopEase extended coverage). Category: Warranty | Related Policy: membership_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 14 of 21",
+    "word_count": 46
+  },
+  {
+    "chunk_id": "faq.pdf_p15_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 15,
+    "text": "Question: What happens if an authorized service center cannot repair my device under warranty? Answer: If an authorized service center determines that a covered defect cannot be repaired within a reasonable timeframe (typically 14 business days), the manufacturer will issue an official brand replacement unit or commercial credit note. Category: Warranty | Related Policy: warranty_policy.pdf Question: Does warranty remain valid if I gift the product to a friend or family member? Answer: Yes. Warranty coverage is tied to the product serial number and remains fully valid as long as the recipient possesses a copy of the official ShopEase GST purchase invoice. Category: Warranty | Related Policy: warranty_policy.pdf Question: How long does a typical warranty repair take? Answer: Standard warranty repairs at authorized brand service centers typically take between 7 to 14 business days, depending on spare parts availability. Category: Warranty | Related Policy: warranty_policy.pdf Question: Can I get on-site doorstep warranty repair for large appliances like TVs or washing machines? Answer: Yes. For large appliances (smart TVs, refrigerators, washing machines), brand authorized technicians provide on-site doorstep inspection and repair. Contact warranty@shopease.example or the brand helpline to schedule an on-site visit. Category: Warranty | Related Policy: warranty_policy.pdf Section 9: Discounts FAQs",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p15_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 15,
+    "text": "brand authorized technicians provide on-site doorstep inspection and repair. Contact warranty@shopease.example or the brand helpline to schedule an on-site visit. Category: Warranty | Related Policy: warranty_policy.pdf Section 9: Discounts FAQs Question: How do I apply a discount coupon code on ShopEase? Answer: During checkout on the payment review screen, enter your promo code into the 'Apply Coupon' box and click 'Apply'. If your cart satisfies the coupon conditions and Minimum Order Value (MOV), the discount will reflect immediately. Category: Discounts | Related Policy: discount_policy.pdf Question: Can I use more than one coupon code on a single order? Answer: No. ShopEase maintains a strict one-coupon-per-order rule. You cannot stack multiple promotional coupon vouchers on the same cart. Category: Discounts | Related Policy: discount_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 15 of 21",
+    "word_count": 146
+  },
+  {
+    "chunk_id": "faq.pdf_p16_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 16,
+    "text": "Question: Can I combine a coupon code with my ShopEase membership discount? Answer: Yes! While multiple coupons cannot be stacked, an eligible coupon CAN be combined with your ShopEase Plus (5%) or Premium (10%) member discount. The tier discount applies first, and the coupon code is applied to the remaining subtotal if it meets the MOV. Category: Discounts | Related Policy: discount_policy.pdf Question: What does Minimum Order Value (MOV) mean for coupon codes? Answer: Minimum Order Value (MOV) is the qualifying subtotal of eligible items required in your cart before the coupon discount can activate. For example, coupon FESTIVE200 requires a minimum cart value of \u20b91,999 to get \u20b9200 off. Category: Discounts | Related Policy: discount_policy.pdf Question: Why is my coupon code showing as invalid or not applying? Answer: A coupon may fail if: (1) the code has expired, (2) your cart value does not meet the MOV threshold (e.g. \u20b91,999), (3) the items in your cart belong to excluded categories (gift cards, bullion), or (4) the coupon was single-use and already redeemed. Category: Discounts | Related Policy: discount_policy.pdf Question: What happens to my coupon if I cancel an order? Answer: If an entire order placed with a single-use coupon",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p16_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 16,
+    "text": "and already redeemed. Category: Discounts | Related Policy: discount_policy.pdf Question: What happens to my coupon if I cancel an order? Answer: If an entire order placed with a single-use coupon is cancelled prior to shipment, the coupon is automatically restored to your account within 2 hours with its original validity intact. Category: Discounts | Related Policy: discount_policy.pdf Question: How is a refund calculated on an item bought with a discount coupon? Answer: Refunds are always calculated strictly on the net amount paid after the discount was deducted, never on the original MRP or pre-discount retail price. Category: Discounts | Related Policy: discount_policy.pdf Question: What is the welcome discount for new shoppers on ShopEase? Answer: New registered customers can use coupon WELCOME100 to receive a flat \u20b9100 discount on their first purchase with a Minimum Order Value of \u20b9999. Category: Discounts | Related Policy: discount_policy.pdf Question: Are discount coupons applicable on all products? Answer: Most general retail products are eligible. However, coupons cannot be applied to gold/silver coins, digital gift cards, baby infant formula, or ShopEase Plus/Premium membership subscriptions. Category: Discounts | Related Policy: discount_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p16_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 16,
+    "text": "baby infant formula, or ShopEase Plus/Premium membership subscriptions. Category: Discounts | Related Policy: discount_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 16 of 21",
+    "word_count": 38
+  },
+  {
+    "chunk_id": "faq.pdf_p17_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 17,
+    "text": "Question: Can customer care reactivate an expired discount code for me? Answer: No. Promotional coupon codes have hardcoded validity windows evaluated in Indian Standard Time (IST). Support representatives do not have manual override authority to reactivate expired codes. Category: Discounts | Related Policy: discount_policy.pdf Question: If I return one item from a combo offer, how is my refund impacted? Answer: If returning one item causes the retained cart to breach the combo threshold, the combo discount is revoked and the price is recalculated at individual item rates before releasing the refund. Category: Discounts | Related Policy: discount_policy.pdf Section 10: Membership FAQs Question: What are the membership tiers and pricing on ShopEase? Answer: ShopEase offers three tiers: Basic is Free forever for all registered customers, Plus is \u20b9499/year, and Premium is \u20b9999/year. Category: Membership | Related Policy: membership_policy.pdf Question: What benefits do I get with a ShopEase Plus membership (\u20b9499/year)? Answer: ShopEase Plus members receive free Standard Shipping on all orders with NO minimum order threshold, a 5% exclusive member discount on selected categories, 12 hours early access to major festive sales, and priority email support. Category: Membership | Related Policy: membership_policy.pdf Question: What benefits do I get with a ShopEase",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p17_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 17,
+    "text": "on selected categories, 12 hours early access to major festive sales, and priority email support. Category: Membership | Related Policy: membership_policy.pdf Question: What benefits do I get with a ShopEase Premium membership (\u20b9999/year)? Answer: ShopEase Premium members receive unlimited FREE Express Shipping (1\u20133 business days), free Standard Shipping, 10% exclusive member discount, 24 hours early access to festive sales, dedicated priority phone/chat support, and an extra 6 months extended warranty on selected electronics. Category: Membership | Related Policy: membership_policy.pdf Question: How does the Premium +6 months extended warranty benefit work? Answer: For selected electronics carrying a standard 12-month manufacturer warranty, Premium members receive an extra 6 months of extended warranty coverage sponsored by ShopEase, providing a total of 18 full months of warranty protection. Category: Membership | Related Policy: membership_policy.pdf Question: How long does a ShopEase membership last? Answer: Both Plus (\u20b9499/year) and Premium (\u20b9999/year) memberships are valid for exactly 365 calendar days from the date of payment and activation. Category: Membership | Related Policy: membership_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 17 of 21",
+    "word_count": 190
+  },
+  {
+    "chunk_id": "faq.pdf_p18_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 18,
+    "text": "Question: Can I upgrade from Plus to Premium during my membership term? Answer: Yes. You can upgrade from Plus to Premium at any time. The unused portion of your \u20b9499 Plus fee will be credited on a pro-rata basis toward the \u20b9999 Premium fee, and your new 365-day membership will begin immediately. Category: Membership | Related Policy: membership_policy.pdf Question: Can I cancel my membership and get a refund? Answer: You can cancel your Plus or Premium membership within 14 calendar days of purchase for a 100% full refund, provided NO member perks (such as free shipping or member discounts) were utilized. If any benefit was used, the fee is non-refundable. Category: Membership | Related Policy: membership_policy.pdf Question: Does my membership renew automatically every year? Answer: You can choose automatic renewal using saved payment cards or opt for manual renewal. ShopEase sends email and SMS renewal reminders 30 days, 7 days, and 1 day prior to membership expiry. Category: Membership | Related Policy: membership_policy.pdf Question: Can I share my ShopEase Premium benefits with family members? Answer: Membership benefits are tied to your registered user account and phone number. Family members residing in the same household can place orders through the primary",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p18_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 18,
+    "text": "benefits with family members? Answer: Membership benefits are tied to your registered user account and phone number. Family members residing in the same household can place orders through the primary account to take advantage of free shipping and discounts. Category: Membership | Related Policy: membership_policy.pdf Question: Are shipping fees waived on all products for Plus and Premium members? Answer: Yes. Plus and Premium members enjoy free shipping on all standard catalog items with no minimum purchase requirement. Premium members also get free Express Shipping on eligible express-enabled items. Category: Membership | Related Policy: membership_policy.pdf Question: Where can I view my active membership details and renewal date? Answer: You can view your active membership tier, accumulated savings, and expiry date by visiting 'My Account > ShopEase Club / Membership' in the app or website. Category: Membership | Related Policy: membership_policy.pdf Section 11: Security FAQs Question: Will ShopEase customer service ever call me asking for an OTP or password? Answer: NEVER. ShopEase support staff will NEVER request: Password, OTP, CVV, Card PIN, or Authentication codes. Any person asking for these credentials is an imposter attempting fraud. Do not share them under any circumstance. Category: Security | Related Policy: security_policy.pdf ShopEase Customer Support",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p18_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 18,
+    "text": "or Authentication codes. Any person asking for these credentials is an imposter attempting fraud. Do not share them under any circumstance. Category: Security | Related Policy: security_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 18 of 21",
+    "word_count": 51
+  },
+  {
+    "chunk_id": "faq.pdf_p19_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 19,
+    "text": "Question: How do I recognize official emails from ShopEase? Answer: All official emails from ShopEase are sent exclusively from our verified domain: @shopease.example (such as support@shopease.example or orders@shopease.example). We never communicate official account matters from free services like Gmail or Yahoo. Category: Security | Related Policy: security_policy.pdf Question: What should I do if I receive a suspicious SMS or WhatsApp message offering prizes? Answer: ShopEase never distributes lottery prizes, cash rewards, or gift coupons via WhatsApp or unverified mobile numbers. Do not click links or install apps like AnyDesk. Forward details of the message to security@shopease.example. Category: Security | Related Policy: security_policy.pdf Question: What should I do if I notice an unauthorized order on my account? Answer: Immediately change your account password and select 'Log Out of All Devices' in Security Settings. Then, call our emergency helpline at 1800-123-EASE or email security@shopease.example. Our team will freeze the account within 15 minutes to block fraudulent dispatches. Category: Security | Related Policy: security_policy.pdf Question: How does ShopEase protect my payment card details? Answer: ShopEase uses RBI-compliant card tokenization and 256-bit SSL encryption. We never store raw card numbers, CVVs, or Net Banking credentials on our servers. All transactions undergo mandatory 3D Secure",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p19_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 19,
+    "text": "Answer: ShopEase uses RBI-compliant card tokenization and 256-bit SSL encryption. We never store raw card numbers, CVVs, or Net Banking credentials on our servers. All transactions undergo mandatory 3D Secure two-factor authentication. Category: Security | Related Policy: payment_policy.pdf Question: Can someone access my account if they know my registered mobile number? Answer: No. Logging in requires either your secure confidential password or an SMS OTP delivered to your physical SIM card. As long as you never share your OTPs or password, your account remains fully protected. Category: Security | Related Policy: security_policy.pdf Question: Why does the ShopEase app block my screen when certain apps are running? Answer: To protect your banking credentials and OTPs from remote fraud, the ShopEase app automatically blocks payment screens if remote desktop or screen-sharing tools (such as AnyDesk, TeamViewer, or QuickSupport) are running on your device. Category: Security | Related Policy: security_policy.pdf Question: How do I report a security bug or vulnerability to ShopEase? Answer: Security researchers can report potential software vulnerabilities directly to security@shopease.example under our Responsible Disclosure policy. We investigate and acknowledge valid reports within 24 hours. Category: Security | Related Policy: security_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active |",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p19_c2",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 19,
+    "text": "under our Responsible Disclosure policy. We investigate and acknowledge valid reports within 24 hours. Category: Security | Related Policy: security_policy.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 19 of 21",
+    "word_count": 44
+  },
+  {
+    "chunk_id": "faq.pdf_p20_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 20,
+    "text": "Question: What should I do if I lose the phone containing my ShopEase account? Answer: Immediately contact your telecom operator to block the SIM card. Then, log into your ShopEase account from a computer, change your password, and click 'Log Out of All Devices'. Contact support@shopease.example if you need help freezing your account. Category: Security | Related Policy: security_policy.pdf Question: How often should I change my ShopEase password? Answer: We recommend changing your password every 90 days and whenever you suspect suspicious activity. Always choose a unique password that you do not use on other websites. Category: Security | Related Policy: security_policy.pdf Section 12: General Support FAQs Question: What are ShopEase's customer support operating hours? Answer: ShopEase Customer Support operates Monday through Saturday, from 9:00 AM to 8:00 PM IST; Sunday: Closed (automated self-service bot and ticket logging remain active). Category: General Support | Related Policy: contact_information.pdf Question: What is the official email address for ShopEase customer care? Answer: The official general support email address is support@shopease.example. Inquiries are responded to within 24 business hours. Category: General Support | Related Policy: contact_information.pdf Question: What is ShopEase's toll-free customer support phone number? Answer: You can reach our customer support team toll-free",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p20_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 20,
+    "text": "to within 24 business hours. Category: General Support | Related Policy: contact_information.pdf Question: What is ShopEase's toll-free customer support phone number? Answer: You can reach our customer support team toll-free at 1800-123-EASE (1800-123-3273) Monday through Saturday, 9:00 AM to 8:00 PM IST. Category: General Support | Related Policy: contact_information.pdf Question: How do I start a live chat with a customer care agent? Answer: Open the ShopEase app or website, go to 'Help Center', and click 'Start Live Chat'. You will connect with an agent during operational hours (Monday\u2013Saturday, 9:00 AM\u20138:00 PM IST). Category: General Support | Related Policy: contact_information.pdf Question: Who can I contact regarding a delayed refund? Answer: For refund inquiries that have exceeded the standard banking SLA, email our dedicated billing team directly at refunds@shopease.example with your Order ID and bank UTR number. Category: General Support | Related Policy: contact_information.pdf ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 20 of 21",
+    "word_count": 166
+  },
+  {
+    "chunk_id": "faq.pdf_p21_c0",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 21,
+    "text": "Question: How do I escalate an unresolved complaint to higher management? Answer: If frontline support has not resolved your issue within 48 hours, you can escalate to a Senior Team Lead via 'Escalate Ticket' in Help Center or email escalations@shopease.example. For final legal escalation, contact our Grievance Officer at grievance@shopease.example. Category: General Support | Related Policy: contact_information.pdf Question: Who is the designated Grievance Officer for ShopEase? Answer: In accordance with Indian e-commerce consumer protection rules, our designated Grievance Officer is Mr. Rajesh Sharma, Head of Grievance Redressal, ShopEase E-Commerce India. Contact email: grievance@shopease.example. Final resolution SLA: within 7 business days. Category: General Support | Related Policy: contact_information.pdf Question: Is customer support available in languages other than English? Answer: Yes. ShopEase customer support provides assistance in English and Hindi across phone and chat, with regional language support available during peak daytime hours. Category: General Support | Related Policy: contact_information.pdf Question: Where is ShopEase's corporate headquarters located? Answer: ShopEase E-Commerce India is headquartered in Bengaluru, Karnataka. All official postal correspondence may be addressed to our registered corporate office in Bengaluru. Category: General Support | Related Policy: company_overview.pdf Question: Can I get assistance with placing an order over the telephone? Answer: Our phone",
+    "word_count": 200
+  },
+  {
+    "chunk_id": "faq.pdf_p21_c1",
+    "filename": "faq.pdf",
+    "document_title": "ShopEase \u2014 Frequently Asked Questions (FAQ)",
+    "document_type": "Frequently Asked Questions",
+    "page": 21,
+    "text": "addressed to our registered corporate office in Bengaluru. Category: General Support | Related Policy: company_overview.pdf Question: Can I get assistance with placing an order over the telephone? Answer: Our phone agents can guide you through the product catalog and checkout process, but for your security, agents cannot take your payment details or place orders on your behalf. You complete the final payment securely on your device. Category: General Support | Related Policy: contact_information.pdf Question: Is ShopEase a real company? Answer: No. ShopEase is a fictional e-commerce company created solely for an AI/ML portfolio project. It is not a real business entity, and all policies, emails, and phone numbers are fictional demonstration data. Category: General Support | Related Policy: company_overview.pdf End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 21 of 21",
+    "word_count": 154
+  },
+  {
+    "chunk_id": "membership_policy.pdf_p1_c0",
+    "filename": "membership_policy.pdf",
+    "document_title": "ShopEase \u2014 Membership & Loyalty Policy",
+    "document_type": "Membership Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Membership & Loyalty Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Membership Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Membership Tiers & Authoritative Annual Pricing ShopEase offers three customer loyalty membership tiers designed to enhance shopping convenience, deliver accelerated logistics, and provide exclusive savings. All memberships operate on an annual subscription model. AUTHORITATIVE MEMBERSHIP PRICING \u2022 Basic: Free forever for all registered customers \u2022 Plus: \u20b9499/year \u2022 Premium: \u20b9999/year 2. Membership Benefits Comparison Matrix Privilege / Feature Basic (Free) Plus (\u20b9499/year) Premium (\u20b9999/year) Annual Fee Free (\u20b90) \u20b9499/year \u20b9999/year Standard Shipping (3\u20137 Days) Free on orders \u2265 \u20b9499; \u20b949 under \u20b9499 FREE on all orders (No MOV) FREE on all orders (No MOV) Express Shipping (1\u20133 Days) Flat \u20b999 per order Discounted \u20b949 per order FREE unlimited Express Delivery Exclusive Member Discount None 5% off on selected verticals 10% off on selected verticals Festive Sale Early Access Standard public access 12 hours early access 24 hours early access + VIP deals Return Window 7 calendar days 7 calendar days 7 calendar days (Priority reverse pickup) Extended Warranty Benefit Standard manufacturer warranty Standard manufacturer warranty +6 Months Extended Warranty on selected electronics Customer Support SLA Standard queue (24 hr email SLA) Priority Email Support (12 hr SLA) Dedicated Priority Phone & Chat Queue",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "membership_policy.pdf_p1_c1",
+    "filename": "membership_policy.pdf",
+    "document_title": "ShopEase \u2014 Membership & Loyalty Policy",
+    "document_type": "Membership Policy",
+    "page": 1,
+    "text": "Benefit Standard manufacturer warranty Standard manufacturer warranty +6 Months Extended Warranty on selected electronics Customer Support SLA Standard queue (24 hr email SLA) Priority Email Support (12 hr SLA) Dedicated Priority Phone & Chat Queue 3. Premium Extended Warranty Specification Extended Warranty Integration: Selected consumer electronics purchased on ShopEase include a standard 12-month manufacturer warranty. For active ShopEase Premium members (\u20b9999/year), ShopEase provides an extra 6 months of comprehensive extended warranty coverage, creating a total protection period of 18 full months. Operating Relationship: During the initial 12 months, claims follow the standard manufacturer warranty claim process. During months 13 through 18, ShopEase's authorized service network covers internal mechanical and electronic defects, providing free doorstep pickup, certified repair, or full depreciated reimbursement if irreparable. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 136
+  },
+  {
+    "chunk_id": "membership_policy.pdf_p2_c0",
+    "filename": "membership_policy.pdf",
+    "document_title": "ShopEase \u2014 Membership & Loyalty Policy",
+    "document_type": "Membership Policy",
+    "page": 2,
+    "text": "4. Subscription Lifecycle, Renewal, Upgrades & Cancellations Duration & Renewal: Subscriptions remain active for exactly 365 calendar days from the date of activation. Renewal reminders are sent via email and SMS at 30 days, 7 days, and 1 day prior to expiration. Tier Upgrades: A Plus member may upgrade to Premium at any time during their membership cycle. The unused portion of their Plus fee is credited on a pro-rata basis against the \u20b9999 Premium fee, and a new 365-day cycle initiates immediately. Cancellation & 14-Day Refund Window: \u2022 A customer may cancel a newly purchased Plus (\u20b9499/year) or Premium (\u20b9999/year) membership within 14 calendar days of enrollment for a 100% full refund, provided NO member benefits (such as free shipping, member discounts, or early access orders) have been utilized. \u2022 If any member benefit has been redeemed during the initial 14 days, or if the cancellation request is submitted after 14 days, the membership fee is strictly non-refundable. MEMBERSHIP REFUND EXAMPLE Scenario: Customer enrolls in Plus for \u20b9499 on 01 September and places an order on 03 September saving \u20b949 on shipping. On 08 September, the customer requests a membership refund. Outcome: Refund request is declined because the customer utilized the free shipping benefit. The Plus subscription remains active until 31 August 2027. End of Document ShopEase \u2014 Customer",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "membership_policy.pdf_p2_c1",
+    "filename": "membership_policy.pdf",
+    "document_title": "ShopEase \u2014 Membership & Loyalty Policy",
+    "document_type": "Membership Policy",
+    "page": 2,
+    "text": "September, the customer requests a membership refund. Outcome: Refund request is declined because the customer utilized the free shipping benefit. The Plus subscription remains active until 31 August 2027. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 64
+  },
+  {
+    "chunk_id": "payment_policy.pdf_p1_c0",
+    "filename": "payment_policy.pdf",
+    "document_title": "ShopEase \u2014 Payment & Transaction Policy",
+    "document_type": "Payment Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Payment & Transaction Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Payment Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Accepted Payment Methods & Channels ShopEase provides a secure, frictionless checkout experience supporting all widely used digital and cash payment instruments in India. All transactions are billed exclusively in Indian Rupees (INR, \u20b9). Payment Method Supported Providers / Networks Transaction Limits / Conditions Credit Cards Visa, MasterCard, RuPay, American Express, Diners Club Requires 3D Secure 2FA / OTP verification Debit Cards All major public, private, and cooperative Indian banks Direct debit via bank gateway; OTP verification mandatory UPI (Unified Payments) Google Pay, PhonePe, Paytm, BHIM, Cred, Bank UPI apps Instant bank-to-bank settlement; up to \u20b91,00,000 per order Net Banking Over 50 authorized Indian commercial & state banks Redirects to secure banking portal; requires bank credentials Digital Wallets Paytm Wallet, Amazon Pay, Mobikwik, PhonePe Wallet Pre-loaded wallet balance; instant one-click debit Cash on Delivery (COD) Eligible pin codes only; physical currency / doorstep UPI Maximum order cap: \u20b910,000; requires phone verification 2. Payment Confirmation & Processing Lifecycle Upon completing checkout, our payment gateway conducts instant authorization with the acquiring bank. If successful, the order status transitions to 'Order Placed' within 5 to 15 seconds, and an automated transaction invoice containing the unique Transaction ID",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "payment_policy.pdf_p1_c1",
+    "filename": "payment_policy.pdf",
+    "document_title": "ShopEase \u2014 Payment & Transaction Policy",
+    "document_type": "Payment Policy",
+    "page": 1,
+    "text": "checkout, our payment gateway conducts instant authorization with the acquiring bank. If successful, the order status transitions to 'Order Placed' within 5 to 15 seconds, and an automated transaction invoice containing the unique Transaction ID and Bank Reference Number is generated. CASH ON DELIVERY (COD) VERIFICATION RULE Rule: To minimize delivery refusal fraud, COD orders exceeding \u20b92,000 or placed from new customer accounts may trigger an automated interactive voice response (IVR) call or an SMS verification link before order dispatch. 3. Managing Failed, Pending & Duplicate Transactions Failed Payment with Money Deducted: If funds are debited from your bank account or card but ShopEase displays a 'Payment Failed' or 'Order Not Placed' screen, the funds are safely held in the inter-bank clearing pool. Under Reserve Bank of India (RBI) reconciliation mandates, your issuing bank will automatically reverse the debited amount to your source account within 24 to 48 business hours. Pending / Processing Payment: Occasional banking network latency may delay confirmation. ShopEase holds the order in 'Payment Pending' status for exactly 15 minutes while continuously querying the payment gateway. If confirmation is received within this window, the order is confirmed; otherwise, the order is automatically cancelled, and any arriving funds are systematically refunded. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 216
+  },
+  {
+    "chunk_id": "payment_policy.pdf_p2_c0",
+    "filename": "payment_policy.pdf",
+    "document_title": "ShopEase \u2014 Payment & Transaction Policy",
+    "document_type": "Payment Policy",
+    "page": 2,
+    "text": "Duplicate Payment for Single Order: If network lag causes a customer to submit payment twice for the same cart, our automated treasury reconciliation system detects the duplicate transaction. The second payment is automatically flagged and initiated for a 100% reversal within 24 hours back to the original funding instrument. 4. Payment Security & Encryption Standards ShopEase adheres to the highest global payment industry data protection benchmarks: \u2022 PCI-DSS Level 1 Certification: All payment transaction infrastructure complies with Payment Card Industry Data Security Standards. \u2022 256-Bit SSL/TLS Encryption: All communication between customer browsers, apps, and payment servers is strictly encrypted. \u2022 RBI Card Tokenization Compliance: In accordance with RBI guidelines, ShopEase does not store actual 16-digit card numbers or CVVs. Cards are tokenized into encrypted tokens managed by card networks. CRITICAL PAYMENT SAFETY REMINDER ShopEase support staff will NEVER request: Password, OTP, CVV, Card PIN, Authentication codes. Never disclose payment authentication credentials to anyone claiming to represent ShopEase. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 192
+  },
+  {
+    "chunk_id": "privacy_policy.pdf_p1_c0",
+    "filename": "privacy_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Privacy Policy",
+    "document_type": "Privacy Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Customer Privacy Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Privacy Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active PORTFOLIO PROJECT PRIVACY DISCLAIMER This is a fictional privacy policy created for an AI/ML portfolio project and is not legal advice. 1. Information We Collect To facilitate e-commerce operations, order delivery, and customer support, ShopEase collects specific categories of user data: \u2022 Account Information: Full name, email address, mobile phone number, encrypted password hash, and date of birth. \u2022 Order & Delivery Information: Shipping addresses, billing addresses, purchase history, order values, and delivery instructions. \u2022 Payment Information: Tokenized card identifiers, issuing bank names, masked account numbers, and UPI handles. ShopEase NEVER collects or stores card CVV or net banking passwords. \u2022 Technical & Device Information: IP address, device model, operating system, browser user-agent, session cookies, and geographic location based on pin code. 2. Purpose of Data Processing Customer information is utilized exclusively for legitimate business functions: \u2022 Fulfilling, routing, and delivering orders placed across our retail and marketplace catalog. \u2022 Processing payment reconciliations, refunds, and Cash on Delivery payouts. \u2022 Providing multi-channel customer support (email, chat, phone) and warranty claim coordination. \u2022 Detecting and preventing fraudulent transactions, identity theft, and promotional coupon abuse. \u2022 Complying with statutory accounting and Goods and Services Tax (GST) invoicing",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "privacy_policy.pdf_p1_c1",
+    "filename": "privacy_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Privacy Policy",
+    "document_type": "Privacy Policy",
+    "page": 1,
+    "text": "Providing multi-channel customer support (email, chat, phone) and warranty claim coordination. \u2022 Detecting and preventing fraudulent transactions, identity theft, and promotional coupon abuse. \u2022 Complying with statutory accounting and Goods and Services Tax (GST) invoicing requirements under Indian law. 3. Data Sharing & Safeguards ShopEase does NOT sell, rent, or trade personal data to third-party advertisers. Data is shared strictly with essential operational service providers under strict data processing agreements: \u2022 Logistics Partners: Name, delivery address, and phone number shared with courier partners (e.g. Blue Dart, Delhivery) strictly to execute physical shipment. \u2022 Payment Gateways: Transaction metadata shared with RBI-authorized payment aggregators to process 3D Secure authorizations. \u2022 Regulatory Authorities: Information disclosed only when legally mandated by statutory subpoenas or judicial orders under Indian jurisdiction. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 138
+  },
+  {
+    "chunk_id": "privacy_policy.pdf_p2_c0",
+    "filename": "privacy_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Privacy Policy",
+    "document_type": "Privacy Policy",
+    "page": 2,
+    "text": "4. Customer Privacy Rights & Data Retention Customer Rights: In accordance with global data protection principles and the Digital Personal Data Protection Act (DPDPA), ShopEase users possess the following enforceable rights: \u2022 Right of Access: Request a portable machine-readable copy of all personal data held about you. \u2022 Right to Rectification: Update inaccurate or incomplete personal profile details via the account settings. \u2022 Right to Erasure: Submit a formal account deletion request. Data is irreversibly purged after a 30-day grace period, except financial invoices retained for 7 years under statutory tax mandates. \u2022 Right to Opt-Out: Unsubscribe from non-transactional promotional newsletters and SMS broadcasts with 1-click. Privacy Contact & Grievance: For data access or deletion requests, contact our Data Protection Officer at privacy@shopease.example. We respond within 48 business hours. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 164
+  },
+  {
+    "chunk_id": "refund_policy.pdf_p1_c0",
+    "filename": "refund_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Refund Policy",
+    "document_type": "Refund Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Customer Refund Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Refund Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Refund Eligibility & Triggers At ShopEase, customer satisfaction and prompt financial settlement are core operational commitments. Refunds are automatically triggered under the following verifiable conditions: \u2022 Pre-Shipment Order Cancellation: Customer cancels an order prior to shipment (100% refund initiated instantly). \u2022 Approved Return: Customer returns an eligible item within the 7 calendar days return window, and the item passes warehouse quality inspection. \u2022 Failed Delivery / Return to Origin (RTO): Package cannot be delivered after 3 attempts or customer refuses delivery at doorstep. \u2022 Stockout / Seller Cancellation: Merchant or fulfillment center cannot fulfill confirmed order due to unexpected inventory discrepancy. \u2022 Duplicate or Erroneous Debit: Multiple charges incurred due to checkout gateway latency. 2. Authoritative Refund Processing Timelines Refunds are credited back strictly to the original source payment instrument, with the exception of Cash on Delivery (COD) orders which are settled via customer-provided bank account details (NEFT/UPI): Original Payment Method ShopEase Initiation SLA Banking Crediting SLA Total Expected SLA UPI (GPay / PhonePe / Paytm) Instant to 4 hours 24 to 48 hours 24\u201348 hours Digital Wallets Instant to 4 hours 12 to 24 hours 24 hours Debit Cards Within 24 hours 4",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "refund_policy.pdf_p1_c1",
+    "filename": "refund_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Refund Policy",
+    "document_type": "Refund Policy",
+    "page": 1,
+    "text": "SLA UPI (GPay / PhonePe / Paytm) Instant to 4 hours 24 to 48 hours 24\u201348 hours Digital Wallets Instant to 4 hours 12 to 24 hours 24 hours Debit Cards Within 24 hours 4 to 6 business days 5\u20137 business days Credit Cards Within 24 hours 4 to 6 business days 5\u20137 business days Net Banking Within 24 hours 2 to 4 business days 3\u20135 business days Cash on Delivery (NEFT / UPI) Within 24 hours of bank details 2 to 4 business days 3\u20135 business days 3. Cash on Delivery (COD) Refund Settlement Process Because cash cannot be physically returned to the doorstep post-delivery, refunds for returned COD purchases are executed digitally: 1. When a return is approved, an encrypted SMS and email link is dispatched inviting the customer to provide verified refund payout coordinates. 2. The customer may enter either their verified UPI ID (VPA) or Bank Account Details (Account Number + IFSC Code + Beneficiary Name). 3. Our payout system performs an instant penny-drop verification (\u20b91 deposit) to confirm account holder authenticity. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 189
+  },
+  {
+    "chunk_id": "refund_policy.pdf_p2_c0",
+    "filename": "refund_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Refund Policy",
+    "document_type": "Refund Policy",
+    "page": 2,
+    "text": "4. Upon successful warehouse inspection, the full refund is remitted via IMPS/NEFT within 3 to 5 business days. 4. Partial Refunds, Shipping Adjustments & Non-Refundable Cases Partial Order Returns: When a customer returns one product from a multi-item order, the refund corresponds precisely to the net item value paid for that specific item. Pro-rated promotional discounts applied across the basket are deducted accordingly. Shipping Fee Refunds: If an entire order is cancelled before shipping, or if an order is returned due to a defective/damaged item, the full shipping fee is refunded. If an order is returned due to customer remorse or size misfit, standard shipping charges incurred on delivery are non-refundable. Non-Refundable Scenarios: Refunds will be declined if items are returned outside the 7 calendar days return window, if products exhibit user-induced physical damage or tampering, if original manufacturer serial numbers do not match order records, or if consumable hygiene seals have been broken. ESCALATION FOR DELAYED REFUNDS If a refund is not credited within the stated banking SLA, customers should check with their bank using the Unique Transaction Reference (UTR) code provided in the ShopEase refund confirmation SMS. If the bank cannot locate the credit, contact refunds@shopease.example for priority reconciliation. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "refund_policy.pdf_p2_c1",
+    "filename": "refund_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Refund Policy",
+    "document_type": "Refund Policy",
+    "page": 2,
+    "text": "ShopEase refund confirmation SMS. If the bank cannot locate the credit, contact refunds@shopease.example for priority reconciliation. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 51
+  },
+  {
+    "chunk_id": "return_policy.pdf_p1_c0",
+    "filename": "return_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Return & Replacement Policy",
+    "document_type": "Return Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Product Return & Replacement Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Return Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Authoritative Return Window & Scope ShopEase provides a customer-friendly, standardized return framework across all eligible retail categories. AUTHORITATIVE RETURN WINDOW Rule: Customers may request a standard return within 7 calendar days from confirmed delivery. Example: If an order is delivered on 10 September, the return request must be submitted via the ShopEase portal no later than 11:59 PM IST on 17 September. 2. Product Eligibility & Condition Guidelines To qualify for an authorized return and refund/replacement, items must strictly satisfy the following physical criteria: \u2022 Original Unused Condition: Items must be unused, unwashed, unaltered, and free of dirt, stains, odors, or user-induced blemishes. \u2022 Intact Original Packaging: All original manufacturer packaging, including retail boxes, blister packs, branded tags, barcode stickers, warranty cards, and documentation, must be preserved. \u2022 Complete Accessories: All bundled accessories, free promotional gifts, remote controls, cables, chargers, and user manuals must be returned alongside the primary product. \u2022 Electronics Device Reset: Smart devices and laptops must be unlinked from iCloud/Google accounts and factory-reset with all passwords removed. 3. Return Initiation Procedure & Doorstep Reverse Pickup How to Initiate a Return: 1. Log in to your ShopEase account and navigate",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "return_policy.pdf_p1_c1",
+    "filename": "return_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Return & Replacement Policy",
+    "document_type": "Return Policy",
+    "page": 1,
+    "text": "laptops must be unlinked from iCloud/Google accounts and factory-reset with all passwords removed. 3. Return Initiation Procedure & Doorstep Reverse Pickup How to Initiate a Return: 1. Log in to your ShopEase account and navigate to 'My Orders'. 2. Select the relevant delivered order and click 'Request Return / Replace' within the 7 calendar days window. 3. Choose the reason for return (e.g., Defective, Damaged in Transit, Size Misfit, Item Not as Described). 4. Upload clear photographs or a short video demonstrating any defect, transit damage, or mismatch. 5. Choose preferred resolution: Free Replacement (same item/size) or Full Refund. Doorstep Pickup Process: Once approved, a reverse pickup is scheduled. Our logistics partner will arrive at the delivery address within 2 to 4 business days. The courier representative conducts a mandatory doorstep verification (checking item condition, serial number, and packaging) before issuing a physical/digital pickup receipt. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 158
+  },
+  {
+    "chunk_id": "return_policy.pdf_p2_c0",
+    "filename": "return_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Return & Replacement Policy",
+    "document_type": "Return Policy",
+    "page": 2,
+    "text": "4. Damaged, Defective, Wrong or Missing Items In the rare event that an item arrives compromised, strict escalation protocols apply: \u2022 Damaged in Transit: Must be reported to ShopEase Support within 48 hours of delivery along with photos of the outer shipping carton and damaged contents. \u2022 Wrong Item Delivered: Must be reported within 48 hours. The incorrect product must remain unopened in its original seal. \u2022 Missing Item / Empty Package: Must be reported within 48 hours. ShopEase opens an immediate logistics investigation with delivery partner GPS and transit weigh-in logs. \u2022 Defective Product: If an item malfunctions within the 7 calendar days return window, it qualifies for instant replacement or refund. Beyond 7 calendar days, coverage transitions to the applicable manufacturer warranty. 5. Non-Returnable Products & Ground for Rejection For health, hygiene, and copyright safety, the following categories are strictly non-returnable unless delivered in a physically damaged or completely defective condition: Non-Returnable Vertical Exempted Items Permitted Resolution on Defect Personal Hygiene & Innerwear Underwear, lingerie, socks, swimwear Replacement only if delivered damaged/sealed intact Beauty, Cosmetics & Perfumes Lipsticks, foundations, skin creams, fragrances Refund/replacement only if seal intact or damaged Consumables & Groceries Packaged food items, gourmet groceries, dairy Instant refund/replacement if damaged or expired Customized & Made-to-Order Monogrammed apparel, custom 3D printed items Non-returnable unless manufacturing defect confirmed",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "return_policy.pdf_p2_c1",
+    "filename": "return_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Return & Replacement Policy",
+    "document_type": "Return Policy",
+    "page": 2,
+    "text": "only if seal intact or damaged Consumables & Groceries Packaged food items, gourmet groceries, dairy Instant refund/replacement if damaged or expired Customized & Made-to-Order Monogrammed apparel, custom 3D printed items Non-returnable unless manufacturing defect confirmed Digital Products & Gift Cards E-vouchers, software licenses, gaming codes Strictly non-returnable and non-refundable RETURN REJECTION POLICY ShopEase reserves the right to decline returns and reject refunds if the item received at our fulfillment center is found to have been used, tampered with, swapped with a counterfeit, or missing core accessories. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 121
+  },
+  {
+    "chunk_id": "security_policy.pdf_p1_c0",
+    "filename": "security_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Security & Fraud Prevention Policy",
+    "document_type": "Security Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Customer Security & Fraud Prevention Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Security Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active ABSOLUTE SECURITY MANDATE \u2014 NEVER FORGET ShopEase support staff will NEVER request: \u2022 Password \u2022 OTP (One-Time Password) \u2022 CVV (Card Verification Value) \u2022 Card PIN \u2022 Authentication codes Anyone asking for these details is an impersonator attempting fraud. Do not share them under any circumstance. 1. Account Security & Password Hygiene Safeguarding customer accounts requires shared responsibility between our cybersecurity infrastructure and user diligence: \u2022 Strong Password Standards: Use unique passwords containing upper/lower characters, digits, and symbols. Never reuse credentials from other web platforms. \u2022 Two-Factor Authentication (2FA): Crucial account modifications (changing phone numbers, updating payout bank details) require mandatory 2FA OTP verification. \u2022 Session Management: Customers can view active sessions in 'Security Settings' and click 'Log Out of All Devices' if suspicious login behavior is detected. 2. Phishing Defense & Recognizing Impersonation Cybercriminals often create counterfeit communications pretending to represent e-commerce brands. Protect yourself by recognizing official ShopEase communication patterns: Communication Channel Legitimate ShopEase Standard Warning Signs of Phishing Official Emails Always sent from verified @shopease.example domain Free webmail addresses (e.g. shopease-support@gmail.com) SMS Notifications Sent under authorized TRAI registered header (e.g., VK-SHPEAS) Regular 10-digit personal mobile numbers sending lottery alerts",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "security_policy.pdf_p1_c1",
+    "filename": "security_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Security & Fraud Prevention Policy",
+    "document_type": "Security Policy",
+    "page": 1,
+    "text": "Warning Signs of Phishing Official Emails Always sent from verified @shopease.example domain Free webmail addresses (e.g. shopease-support@gmail.com) SMS Notifications Sent under authorized TRAI registered header (e.g., VK-SHPEAS) Regular 10-digit personal mobile numbers sending lottery alerts Customer Calls Agents call only regarding active open tickets during 9AM\u20138PM IST Callers demanding immediate OTP or asking you to install AnyDesk/TeamViewer Payment Requests All payments occur inside the secure checkout portal / app Demands to send UPI payments directly to personal phone numbers 3. Automated Fraud Prevention & Velocity Checks ShopEase utilizes advanced algorithmic fraud prevention mechanisms: \u2022 Velocity Limits: Rapid consecutive orders placed across multiple geographical regions trigger an automated temporary hold pending phone verification. \u2022 Card Tokenization: Zero raw card numbers are stored on our servers; tokens are securely cryptographically signed. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 142
+  },
+  {
+    "chunk_id": "security_policy.pdf_p2_c0",
+    "filename": "security_policy.pdf",
+    "document_title": "ShopEase \u2014 Customer Security & Fraud Prevention Policy",
+    "document_type": "Security Policy",
+    "page": 2,
+    "text": "\u2022 Remote Access Software Warning: Our mobile application detects active screen-sharing or remote desktop utilities (e.g. AnyDesk, QuickSupport) and automatically blocks payment screens to prevent unauthorized screen scraping. 4. Security Incident Reporting & Emergency Response Reporting Unauthorized Account Access: If you suspect your account has been breached or notice an unrecognized order: 1. Immediately change your account password and select 'Log out of all devices'. 2. Contact our 24/7 Security Escalation Desk at security@shopease.example or call 1800-123-EASE (1800-123-3273). Our team will freeze the account within 15 minutes to block fraudulent dispatches. Responsible Vulnerability Disclosure: Ethical security researchers who discover software vulnerabilities are encouraged to report findings responsibly to security@shopease.example under our safe harbor policy. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 149
+  },
+  {
+    "chunk_id": "shipping_policy.pdf_p1_c0",
+    "filename": "shipping_policy.pdf",
+    "document_title": "ShopEase \u2014 Shipping & Delivery Policy",
+    "document_type": "Shipping Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Shipping & Delivery Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Shipping Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Shipping Methods & Authoritative Delivery Timelines ShopEase partners with India's premier logistics carriers (including Blue Dart, Delhivery, Shadowfax, and XpressBees) to deliver parcels safely across more than 19,000 pin codes nationwide. AUTHORITATIVE SHIPPING TIMELINES \u2022 Standard Shipping: 3\u20137 business days across India \u2022 Express Shipping: 1\u20133 business days in eligible metro and tier-1 municipal zones Business days exclude Sundays and gazetted national public holidays. 2. Shipping Charges & Membership Privileges Shipping rates are calculated based on order value, shipping speed, and customer membership status: Service Tier Standard Shipping (3\u20137 Days) Express Shipping (1\u20133 Days) Basic (Non-Member) FREE on orders \u20b9499 and above; Flat \u20b949 for orders below \u20b9499 Flat \u20b999 per order (where available) Plus Member (\u20b9499/yr) FREE on all orders with NO minimum order threshold Discounted \u20b949 per order Premium Member (\u20b9999/yr) FREE on all orders with NO minimum order threshold FREE unlimited Express Shipping on eligible items 3. Consignment Tracking & Milestone Status Meanings Every dispatched shipment receives an Air Waybill (AWB) tracking number linked to live carrier tracking API feeds. Tracking milestones include: \u2022 Order Confirmed: Order details verified; inventory allocated at fulfillment warehouse. \u2022 Packed / Manifest Generated: Items",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "shipping_policy.pdf_p1_c1",
+    "filename": "shipping_policy.pdf",
+    "document_title": "ShopEase \u2014 Shipping & Delivery Policy",
+    "document_type": "Shipping Policy",
+    "page": 1,
+    "text": "shipment receives an Air Waybill (AWB) tracking number linked to live carrier tracking API feeds. Tracking milestones include: \u2022 Order Confirmed: Order details verified; inventory allocated at fulfillment warehouse. \u2022 Packed / Manifest Generated: Items boxed with shipping label; courier pickup scheduled. \u2022 Shipped / In Transit: Parcel scanned at regional courier hub; en route via road/air freight network. \u2022 Out for Delivery: Assigned to local delivery courier for doorstep handover today. \u2022 Delivered: Handover completed; digital OTP / receiver signature verified. \u2022 Undelivered / Rescheduled: Delivery attempted but recipient unavailable; re-attempt scheduled next business day. \u2022 RTO (Return to Origin): 3 failed attempts or customer refusal; parcel returning to merchant/hub. 4. Delivery Attempts, Address Corrections & Exceptions Delivery Attempts: Our courier partners make up to 3 consecutive delivery attempts. Before each attempt, an automated SMS notification is dispatched with the delivery agent's contact details. Address Modifications: Customers can modify their delivery address directly from the order page while the order remains in 'Order Placed' or 'Processing' status. Once marked 'Shipped', the delivery destination cannot be altered because the shipping manifest is locked. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 196
+  },
+  {
+    "chunk_id": "shipping_policy.pdf_p2_c0",
+    "filename": "shipping_policy.pdf",
+    "document_title": "ShopEase \u2014 Shipping & Delivery Policy",
+    "document_type": "Shipping Policy",
+    "page": 2,
+    "text": "Delayed Delivery Escalations: If a package fails to arrive within the committed delivery window (7 business days for Standard, 3 business days for Express), our logistics monitoring system automatically triggers an urgent tracer ticket. If tracking remains stagnant with no scan for 7 consecutive business days, the parcel is officially deemed lost, and the customer is offered an instant replacement or 100% full refund. DAMAGED PARCEL PROTOCOL If the outer shipping carton shows evident signs of severe crushing, tearing, or tampering, customers should decline acceptance and endorse the courier delivery sheet with 'Refused Due to Outer Damage'. Alternatively, take clear photos/video before accepting. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 138
+  },
+  {
+    "chunk_id": "warranty_policy.pdf_p1_c0",
+    "filename": "warranty_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Warranty Policy",
+    "document_type": "Warranty Policy",
+    "page": 1,
+    "text": "ShopEase \u2014 Product Warranty Policy Company: ShopEase Effective Date: 01 September 2026 Document Type: Warranty Policy Last Updated: 01 September 2026 Version: 1.0 Status: Active 1. Warranty Definition & Authoritative Standard ShopEase provides transparent, reliable warranty coverage on genuine consumer products purchased through our platform. All branded electronics and appliances are backed by authoritative manufacturer warranties. AUTHORITATIVE ELECTRONICS WARRANTY STANDARD \u2022 Selected electronics: 12-month manufacturer warranty \u2022 The warranty displayed on the individual product listing is the applicable warranty for that product. The 12-month period is the standard warranty reference for selected electronics. 2. Scope of Coverage: Inclusions vs Exclusions Warranty safeguards products against internal engineering and component failures occurring under normal, intended domestic usage: Coverage Domain Covered Under Warranty Strictly Excluded from Warranty Hardware & Circuitry Motherboard failure, processor faults, display panel dead pixels (>3), charging circuit defect Physical drops, cracked screens, shattered casings, bent chassis Internal Components Internal speaker failure, motor burnout, sensor malfunction, microphone defects Liquid ingress, moisture corrosion, water submersion, chemical spills Firmware / Operating System Factory boot-loop, official firmware update failure, wireless connectivity hardware faults Rooting, custom ROM flashing, bootloader unlocking, malware infection Service History Repairs executed by certified brand authorized service centers Repairs attempted by unauthorized third-party technicians or unsealed units 3. Step-by-Step Warranty Claim Procedure How to File a Warranty Claim: 1. Retrieve",
+    "word_count": 220
+  },
+  {
+    "chunk_id": "warranty_policy.pdf_p1_c1",
+    "filename": "warranty_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Warranty Policy",
+    "document_type": "Warranty Policy",
+    "page": 1,
+    "text": "unlocking, malware infection Service History Repairs executed by certified brand authorized service centers Repairs attempted by unauthorized third-party technicians or unsealed units 3. Step-by-Step Warranty Claim Procedure How to File a Warranty Claim: 1. Retrieve Tax Invoice: Download the official GST tax invoice from your ShopEase account ('My Orders > Download Invoice'). This serves as primary proof of purchase date. 2. Locate Authorized Service Center: Visit the brand manufacturer's official authorized service center nearest to your location, or contact ShopEase Warranty Support (warranty@shopease.example) for referral assistance. 3. Device Assessment: The technician will verify device serial number against the purchase invoice and conduct diagnostic evaluations. 4. Resolution SLA: Covered defects are repaired free of charge using genuine manufacturer components (typical turnaround: 7\u201314 business days). If the unit is certified unrepairable, an official replacement unit is issued. ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 1 of 2",
+    "word_count": 148
+  },
+  {
+    "chunk_id": "warranty_policy.pdf_p2_c0",
+    "filename": "warranty_policy.pdf",
+    "document_title": "ShopEase \u2014 Product Warranty Policy",
+    "document_type": "Warranty Policy",
+    "page": 2,
+    "text": "4. Premium Member Extended Warranty Benefit & Edge Cases ShopEase Premium Extended Warranty: Active ShopEase Premium members (\u20b9999/year) receive an additional 6 months of comprehensive extended warranty coverage on selected electronics. This coverage commences immediately upon expiration of the primary 12-month manufacturer warranty, extending total protection to 18 full months. Extended warranty claims are handled directly through ShopEase Warranty Concierge. Transferred Ownership & Gifts: Warranty coverage is tied to the unique product serial number and remains fully valid if an item is gifted, provided the recipient holds the original GST purchase invoice. WARRANTY VS 7-DAY RETURN WINDOW Clarification: Defects discovered within 7 calendar days of delivery are eligible for immediate replacement or full refund through ShopEase Returns. Defects emerging after day 7 fall under the 12-month manufacturer warranty service process. End of Document ShopEase \u2014 Customer Support Knowledge Base Version 1.0 ShopEase Customer Support Knowledge Base | Version 1.0 Active | Confidential ShopEase \u2014 Customer Support Knowledge Base | Version 1.0 Page 2 of 2",
+    "word_count": 165
+  }
+]
