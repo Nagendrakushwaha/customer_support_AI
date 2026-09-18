@@ -1,0 +1,24 @@
+{
+  "name": "customer-support-conversational-ai",
+  "version": "1.0.0",
+  "description": "ShopEase Customer Support Conversational AI (Root Orchestrator)",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "backend": "py -3.13 -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload --app-dir backend",
+    "verify": "py -3.13 scripts/verify_system.py",
+    "test:backend": "py -3.13 -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "conversational-ai",
+    "nlp",
+    "customer-support",
+    "fastapi",
+    "react",
+    "rag"
+  ],
+  "author": "ShopEase AI Team",
+  "license": "MIT"
+}
