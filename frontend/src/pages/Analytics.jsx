@@ -106,7 +106,7 @@ export default function Analytics() {
                     <span style={{ fontWeight: '500' }}>{item.intent}</span>
                     <span style={{ fontWeight: '600', color: 'var(--color-primary)' }}>{item.count} queries</span>
                   </div>
-                  <div style={{ height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
+                  <div style={{ height: '8px', background: '#e2e8f0', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
                     <div style={{
                       height: '100%',
                       width: `${barWidth}%`,
@@ -139,7 +139,7 @@ export default function Analytics() {
                 </div>
                 <span style={{ fontWeight: '700', color: 'var(--status-success)' }}>{highPct}% ({confDist.high})</span>
               </div>
-              <div style={{ height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
+              <div style={{ height: '8px', background: '#e2e8f0', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
                 <div style={{ height: '100%', width: `${highPct}%`, background: 'var(--status-success)', borderRadius: 'var(--radius-full)' }} />
               </div>
             </div>
@@ -153,7 +153,7 @@ export default function Analytics() {
                 </div>
                 <span style={{ fontWeight: '700', color: 'var(--status-warning)' }}>{medPct}% ({confDist.medium})</span>
               </div>
-              <div style={{ height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
+              <div style={{ height: '8px', background: '#e2e8f0', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
                 <div style={{ height: '100%', width: `${medPct}%`, background: 'var(--status-warning)', borderRadius: 'var(--radius-full)' }} />
               </div>
             </div>
@@ -167,7 +167,7 @@ export default function Analytics() {
                 </div>
                 <span style={{ fontWeight: '700', color: 'var(--status-danger)' }}>{lowPct}% ({confDist.low})</span>
               </div>
-              <div style={{ height: '8px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
+              <div style={{ height: '8px', background: '#e2e8f0', borderRadius: 'var(--radius-full)', overflow: 'hidden' }}>
                 <div style={{ height: '100%', width: `${lowPct}%`, background: 'var(--status-danger)', borderRadius: 'var(--radius-full)' }} />
               </div>
             </div>

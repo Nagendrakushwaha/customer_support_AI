@@ -59,19 +59,19 @@ input:focus, textarea:focus, select:focus {
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--bg-app);
+  background: #f1f5f9;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.15);
+  background: #cbd5e1;
   border-radius: var(--radius-full);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: #94a3b8;
 }
 
-/* Utilities */
+/* Badges */
 .badge {
   display: inline-flex;
   align-items: center;
@@ -87,29 +87,29 @@ input:focus, textarea:focus, select:focus {
 .badge-success {
   background-color: var(--status-success-bg);
   color: var(--status-success);
-  border: 1px solid rgba(16, 185, 129, 0.3);
+  border: 1px solid #a7f3d0;
 }
 
 .badge-warning {
   background-color: var(--status-warning-bg);
   color: var(--status-warning);
-  border: 1px solid rgba(245, 158, 11, 0.3);
+  border: 1px solid #fde68a;
 }
 
 .badge-danger {
   background-color: var(--status-danger-bg);
   color: var(--status-danger);
-  border: 1px solid rgba(239, 68, 68, 0.3);
+  border: 1px solid #fecaca;
 }
 
 .badge-info {
   background-color: var(--status-info-bg);
   color: var(--status-info);
-  border: 1px solid rgba(6, 182, 212, 0.3);
+  border: 1px solid #bae6fd;
 }
 
 .badge-primary {
   background-color: var(--color-primary-light);
   color: var(--color-primary);
-  border: 1px solid rgba(59, 130, 246, 0.3);
+  border: 1px solid #bfdbfe;
 }

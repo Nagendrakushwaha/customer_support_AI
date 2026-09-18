@@ -69,7 +69,7 @@ export default function KnowledgeBase() {
           gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
           gap: '1rem',
           padding: '1rem',
-          background: 'rgba(255, 255, 255, 0.02)',
+          background: '#f8fafc',
           borderRadius: 'var(--radius-md)',
           border: '1px solid var(--border-subtle)',
           fontSize: '0.8rem'

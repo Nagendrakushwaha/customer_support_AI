@@ -182,7 +182,7 @@ export default function IntentDetection() {
                     {/* Visual Progress Bar */}
                     <div style={{
                       height: '6px',
-                      background: 'rgba(255, 255, 255, 0.08)',
+                      background: '#e2e8f0',
                       borderRadius: 'var(--radius-full)',
                       overflow: 'hidden'
                     }}>
@@ -191,7 +191,7 @@ export default function IntentDetection() {
                         width: `${cand.confidence * 100}%`,
                         background: cIdx === 0 
                           ? 'linear-gradient(90deg, var(--color-primary), var(--color-accent))' 
-                          : 'rgba(255, 255, 255, 0.25)',
+                          : '#94a3b8',
                         borderRadius: 'var(--radius-full)'
                       }} />
                     </div>

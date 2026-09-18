@@ -153,7 +153,7 @@ export default function AIAssistant() {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          background: 'rgba(255, 255, 255, 0.02)'
+          background: '#ffffff'
         }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
             <div style={{
@@ -329,7 +329,7 @@ export default function AIAssistant() {
         {/* Suggested Quick Prompts */}
         <div style={{
           padding: '0.65rem 1.5rem',
-          background: 'rgba(255, 255, 255, 0.015)',
+          background: '#f8fafc',
           borderTop: '1px solid var(--border-subtle)',
           display: 'flex',
           gap: '0.5rem',
