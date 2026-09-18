@@ -1,0 +1,160 @@
+{
+  "company": "ShopEase",
+  "industry": "E-Commerce",
+  "country": "India",
+  "currency": "INR",
+  "timezone": "IST",
+  "version": "1.0",
+  "effective_date": "01 September 2026",
+  "last_updated": "01 September 2026",
+  "status": "Active",
+  "fictional_notice": "ShopEase is a fictional company created for an AI/ML portfolio project. It is not a real business.",
+  "authoritative_policy_constants": {
+    "customer_support_hours": "Monday–Saturday, 9:00 AM–8:00 PM IST; Sunday: Closed",
+    "general_support_email": "support@shopease.example",
+    "toll_free_phone": "1800-123-EASE (1800-123-3273)",
+    "standard_shipping_sla": "3–7 business days",
+    "express_shipping_sla": "1–3 business days",
+    "standard_return_window": "7 calendar days from delivery",
+    "selected_electronics_warranty": "12-month manufacturer warranty",
+    "cancellation_rule": "Customers can cancel an order free of charge before the order reaches 'Shipped' status.",
+    "memberships": {
+      "basic": "Free",
+      "plus": "₹499/year",
+      "premium": "₹999/year"
+    },
+    "security_mandate": "ShopEase support staff will NEVER request: Password, OTP, CVV, Card PIN, Authentication codes."
+  },
+  "faq_summary": {
+    "total_count": 137,
+    "target_range": "120–150",
+    "categories": [
+      "Account",
+      "Cancellation",
+      "Discounts",
+      "General Support",
+      "Membership",
+      "Orders",
+      "Payments",
+      "Refunds",
+      "Returns",
+      "Security",
+      "Shipping",
+      "Warranty"
+    ]
+  },
+  "documents": [
+    {
+      "filename": "company_overview.pdf",
+      "title": "ShopEase — Corporate & Operational Overview",
+      "document_type": "Company Overview",
+      "pages": 3,
+      "size_bytes": 50998,
+      "sha256": "8c814956fba8d87105f244c2a2648d6451d59f8a267d18e294bd4a75b816de28"
+    },
+    {
+      "filename": "account_policy.pdf",
+      "title": "ShopEase — Customer Account Policy",
+      "document_type": "Account Policy",
+      "pages": 2,
+      "size_bytes": 48782,
+      "sha256": "82cbc96eda2ab4034cc83094ff86e8e0dcf320634e67dc8e06d0b90bb3d95599"
+    },
+    {
+      "filename": "payment_policy.pdf",
+      "title": "ShopEase — Payment & Transaction Policy",
+      "document_type": "Payment Policy",
+      "pages": 2,
+      "size_bytes": 48474,
+      "sha256": "c675ecf56221981e5ebb33ae12fbf6d00ad055fa83a090900e08445d693ace5e"
+    },
+    {
+      "filename": "refund_policy.pdf",
+      "title": "ShopEase — Customer Refund Policy",
+      "document_type": "Refund Policy",
+      "pages": 2,
+      "size_bytes": 48373,
+      "sha256": "2f5ab8de1e71cea21340743730efdc4f0503e6eefe504a751a3568a942d4b219"
+    },
+    {
+      "filename": "return_policy.pdf",
+      "title": "ShopEase — Product Return & Replacement Policy",
+      "document_type": "Return Policy",
+      "pages": 2,
+      "size_bytes": 48861,
+      "sha256": "9aadc305402f46b4f0e60e11c489b39ef3b6fb82a442f63364fa0edd9f368e49"
+    },
+    {
+      "filename": "cancellation_policy.pdf",
+      "title": "ShopEase — Order Cancellation Policy",
+      "document_type": "Cancellation Policy",
+      "pages": 2,
+      "size_bytes": 48336,
+      "sha256": "3f4eb52b2213731435bd5f0e75815ae2b30addbd291de3b2024e871844b5e4bf"
+    },
+    {
+      "filename": "shipping_policy.pdf",
+      "title": "ShopEase — Shipping & Delivery Policy",
+      "document_type": "Shipping Policy",
+      "pages": 2,
+      "size_bytes": 48010,
+      "sha256": "47a880dcebe39442696c098809cce992711491f019387117f1fa9da92e927b51"
+    },
+    {
+      "filename": "warranty_policy.pdf",
+      "title": "ShopEase — Product Warranty Policy",
+      "document_type": "Warranty Policy",
+      "pages": 2,
+      "size_bytes": 48215,
+      "sha256": "62409a592ce806f245199b3d3bd48846065f465410453520eacb8b3b0746516b"
+    },
+    {
+      "filename": "privacy_policy.pdf",
+      "title": "ShopEase — Customer Privacy Policy",
+      "document_type": "Privacy Policy",
+      "pages": 2,
+      "size_bytes": 47587,
+      "sha256": "057902b47a3eeec3d7f0eaae19adca9a9aa424bb04bb1fa33ad3320525fe4650"
+    },
+    {
+      "filename": "security_policy.pdf",
+      "title": "ShopEase — Customer Security & Fraud Prevention Policy",
+      "document_type": "Security Policy",
+      "pages": 2,
+      "size_bytes": 48027,
+      "sha256": "3fe10f33124a891e22225ce60a387e3609d92713d6a1478718e17a0cd5ea8aea"
+    },
+    {
+      "filename": "discount_policy.pdf",
+      "title": "ShopEase — Promotional Discount & Coupon Policy",
+      "document_type": "Discount Policy",
+      "pages": 2,
+      "size_bytes": 48504,
+      "sha256": "184cfe92b1c8b3e2cbdda423e4b9b68be5442e30ce168449a8ba318dd9b6d2a6"
+    },
+    {
+      "filename": "faq.pdf",
+      "title": "ShopEase — Frequently Asked Questions (FAQ)",
+      "document_type": "Frequently Asked Questions",
+      "pages": 21,
+      "size_bytes": 140768,
+      "sha256": "ddf367baa8ebac1423105171b67a30d5b1444c96b9f31d5dc7cb8f154a272221"
+    },
+    {
+      "filename": "membership_policy.pdf",
+      "title": "ShopEase — Membership & Loyalty Policy",
+      "document_type": "Membership Policy",
+      "pages": 2,
+      "size_bytes": 48506,
+      "sha256": "122a5e03a6489eb5ba3531bd3262b86041a4d4a93c53d7318794d6257af07311"
+    },
+    {
+      "filename": "contact_information.pdf",
+      "title": "ShopEase — Customer Support & Escalation Matrix",
+      "document_type": "Contact Information & Escalations",
+      "pages": 2,
+      "size_bytes": 48070,
+      "sha256": "8559bf3956b2be108daf3d74cf8026c90d4dacaacad82351aba6e47cd29b5a4b"
+    }
+  ]
+}
