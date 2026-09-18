@@ -54,8 +54,9 @@ export default function Dashboard({ setActivePage }) {
     <div>
       {/* Top Banner */}
       <div style={{
-        background: 'linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(139, 92, 246, 0.15))',
-        border: '1px solid rgba(59, 130, 246, 0.3)',
+        background: 'linear-gradient(135deg, rgba(30, 64, 175, 0.75), rgba(79, 70, 229, 0.75))',
+        border: '1px solid rgba(255, 255, 255, 0.25)',
+        backdropFilter: 'blur(16px)',
         borderRadius: 'var(--radius-lg)',
         padding: '1.5rem',
         marginBottom: '1.75rem',
@@ -67,10 +68,10 @@ export default function Dashboard({ setActivePage }) {
       }}>
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
-            <Sparkles size={20} color="var(--color-primary)" />
-            <h3 style={{ fontSize: '1.2rem', fontWeight: '700' }}>ShopEase Support Intelligence Engine</h3>
+            <Sparkles size={20} color="#38bdf8" />
+            <h3 style={{ fontSize: '1.2rem', fontWeight: '700', color: '#ffffff' }}>ShopEase Support Intelligence Engine</h3>
           </div>
-          <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem' }}>
+          <p style={{ color: 'rgba(255, 255, 255, 0.9)', fontSize: '0.875rem' }}>
             Multi-class NLP Intent Classification (Banking77) & Grounded RAG Knowledge Retrieval over Official Company Policies.
           </p>
         </div>
