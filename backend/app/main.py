@@ -4,10 +4,12 @@ FastAPI application entrypoint for ShopEase Customer Support Conversational AI.
 
 import time
 import logging
+from pathlib import Path
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.core.config import settings
 from app.api.router import api_router
@@ -41,6 +43,16 @@ app = FastAPI(
     description="Enterprise-grade Customer Support Conversational AI with Intent Classification and Grounded RAG Knowledge Retrieval.",
     lifespan=lifespan
 )
+
+FRONTEND_DIST = Path(__file__).resolve().parents[2] / "frontend" / "dist"
+
+# Serve React static assets
+if FRONTEND_DIST.exists():
+    app.mount(
+        "/assets",
+        StaticFiles(directory=FRONTEND_DIST / "assets"),
+        name="frontend-assets",
+    )
 
 # CORS Configuration
 app.add_middleware(
@@ -80,6 +92,8 @@ app.include_router(api_router, prefix=settings.API_V1_STR)
 
 @app.get("/")
 async def root():
+    if FRONTEND_DIST.exists():
+        return FileResponse(FRONTEND_DIST / "index.html")
     return {
         "service": settings.PROJECT_NAME,
         "version": settings.VERSION,
