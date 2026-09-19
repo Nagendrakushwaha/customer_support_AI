@@ -47,7 +47,20 @@ export default function AIAssistant() {
   const [expandedSources, setExpandedSources] = useState({});
   const [copiedId, setCopiedId] = useState(null);
   const [feedbackState, setFeedbackState] = useState({});
+  const [isConnected, setIsConnected] = useState(true);
   const messagesEndRef = useRef(null);
+
+  const checkConnection = () => {
+    api.getHealth()
+      .then(res => setIsConnected(res.status === 'Operational'))
+      .catch(() => setIsConnected(false));
+  };
+
+  useEffect(() => {
+    checkConnection();
+    const timer = setInterval(checkConnection, 10000);
+    return () => clearInterval(timer);
+  }, []);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -108,16 +121,21 @@ export default function AIAssistant() {
       };
 
       setMessages(prev => [...prev, assistantMsg]);
+      setIsConnected(true);
     } catch (err) {
+      setIsConnected(false);
+      const isNetworkErr = !err.status && (err.name === 'TypeError' || (err.message && (err.message.includes('fetch') || err.message.includes('Network') || err.message.includes('Failed to fetch'))));
       const errorMsg = {
         id: 'err-' + Date.now(),
         role: 'assistant',
-        content: `Error: ${err.message || 'Unable to communicate with support backend.'}. Please check that the server is operational.`,
+        content: isNetworkErr
+          ? `Backend server connection failed. Please ensure the backend is running at http://127.0.0.1:8000 (execute "npm run backend" in the project root).`
+          : `Error: ${err.message || 'Unable to communicate with support backend.'}. Please check backend logs.`,
         intent: 'system_error',
         confidence: 0,
         sources: [],
         escalation_required: true,
-        escalation_reason: 'Network or backend error',
+        escalation_reason: isNetworkErr ? 'Backend server offline (run: npm run backend)' : 'Network or backend error',
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
       setMessages(prev => [...prev, errorMsg]);
@@ -160,11 +178,23 @@ export default function AIAssistant() {
               width: '10px',
               height: '10px',
               borderRadius: '50%',
-              background: 'var(--status-success)',
-              boxShadow: '0 0 8px var(--status-success)'
+              background: isConnected ? 'var(--status-success)' : 'var(--status-danger)',
+              boxShadow: isConnected ? '0 0 8px var(--status-success)' : '0 0 8px var(--status-danger)',
+              transition: 'all 0.3s ease'
             }}></div>
             <div>
               <span style={{ fontSize: '0.9rem', fontWeight: '600' }}>Active Support Agent</span>
+              <span style={{
+                fontSize: '0.72rem',
+                marginLeft: '0.5rem',
+                padding: '0.15rem 0.45rem',
+                borderRadius: '4px',
+                background: isConnected ? 'rgba(16, 185, 129, 0.12)' : 'rgba(239, 68, 68, 0.12)',
+                color: isConnected ? 'var(--status-success)' : 'var(--status-danger)',
+                fontWeight: '600'
+              }}>
+                {isConnected ? 'Backend Online' : 'Backend Offline'}
+              </span>
               <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginLeft: '0.5rem' }}>
                 {conversationId ? `Session ID: ${conversationId.slice(0, 8)}...` : 'Local Session'}
               </span>
